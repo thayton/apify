@@ -56,7 +56,8 @@ async function setMaxPageSize(page) {
  *
  * After the next page link gets clicked and the new page is loaded the pager
  * will show the current page within a span (not as a link). So we wait until 
- * pageno appears within a span to indicate that the next page is finished loading.
+ * pageno appears within a span to indicate that the next page has finished 
+ * loading.
  */ 
 async function gotoNextPage(page, pageno) {
     let noMorePages = true;
@@ -79,14 +80,13 @@ async function gotoNextPage(page, pageno) {
 }
 
 /*------------------------------------------------------------------------------
- * Go back to the first page of results in order to reset the pager.
- * The first page shows the following cases:
- * (1) Page 1 link is available
- * (2) '<<' link is available. Once we go to page 6 and beyond the pager stops
- *     showing the page 1 link and we have to click on the '<<' link in order to
- *     get back to page 1
- * (3) There's no page 1 link because there's only one page of results and so
- *     there's only a <span>1</span> where the page 1 link would have been
+ * Go back to the first page of results in order to reset the pager. Once the 
+ * first page link is clicked and becomes the current page the page 1 link will 
+ * appear inside of <span>1</span>. So we can determine once page 1 has finished
+ * loading by wait inguntil page 1 appears inside of this span. 
+ *
+ * Note that there might not be a page 1 link because there was only one page of 
+ * results. In that case the page will still show up as <span>1</span> element. 
  */
 async function gotoFirstPage(page) {
     let firstPageLinkXp = `//tr[@class='PagerStyle']/td/table/tbody/tr/td/a[contains(@href,'Page$1')]`;
