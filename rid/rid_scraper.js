@@ -42,17 +42,17 @@ async function setMaxPageSize(page) {
     } 
 
     let pageSizeName = match[0];
-    let memberTable = await page.$('#FormContentPlaceHolder_Panel_resultsGrid');    
+    let resultsTable = await page.$('#FormContentPlaceHolder_Panel_resultsGrid');    
 
     await page.select(`select[name="${pageSizeName}"]`, '50');
-    
+
     /*
-     * Selecting the page size triggers an ajax request for the new member table data.
+     * Selecting the page size triggers an ajax request for the new table results. 
      * We need to wait until that new table data gets loaded before trying to scrape.
      * So we wait until the old member table gets detached from the DOM as the signal
      * that the new table has been loaded
      */
-    await waitUntilStale(page, memberTable);
+    await waitUntilStale(page, resultsTable);
 }
 
 /*------------------------------------------------------------------------------
@@ -151,8 +151,10 @@ async function scrapeAllPages(page) {
         }
     }
 
-    // The pager won't reset back to page 1 on its own
-    // so we have to explicitly click on the page 1 link
+    /*
+     * The pager won't reset back to page 1 on its own so we have to explicitly 
+     * click on the page 1 link
+     */
     await gotoFirstPage(page);
     return results;
 }
@@ -176,10 +178,10 @@ async function run() {
 
         /*
          * The first time we run a search we can wait for the table to appear to determine
-         * once the search has loaded the results. But with subsequent searches we need to
-         * determine when the table contents have been updated. To do that we fetch a ref
-         * to the table here and then wait for it to become stale (detached) as an indication
-         * that the new table data has loaded.
+         * once the search has loaded the results. However, with subsequent searches the 
+         * table already exists and what we need to determine is when the table contents have 
+         * been updated. To do that we fetch a reference to the table here and then wait for 
+         * it to become stale (detached) as an indication that the new table data has loaded.
          */
         let resultsTable = await page.$('table#FormContentPlaceHolder_Panel_resultsGrid');
         
