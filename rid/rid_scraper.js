@@ -79,8 +79,8 @@ async function gotoNextPage(page, pageno) {
 }
 
 /*------------------------------------------------------------------------------
- * Go back to the first page of results in order to reset the pager. We have to
- * deal with the following cases:
+ * Go back to the first page of results in order to reset the pager.
+ * The first page shows the following cases:
  * (1) Page 1 link is available
  * (2) '<<' link is available. Once we go to page 6 and beyond the pager stops
  *     showing the page 1 link and we have to click on the '<<' link in order to
@@ -89,29 +89,17 @@ async function gotoNextPage(page, pageno) {
  *     there's only a <span>1</span> where the page 1 link would have been
  */
 async function gotoFirstPage(page) {
-    let pagerXp = `//tr[@class='PagerStyle']/td/table/tbody/tr/td/`;    
+    let firstPageLinkXp = `//tr[@class='PagerStyle']/td/table/tbody/tr/td/a[contains(@href,'Page$1')]`;
+    let firstPageCurrXp = `//tr[@class='PagerStyle']/td/table/tbody/tr/td/span[text()='1']`;
     let firstPage;
 
-    // (1)
-    firstPage = await page.$x(pagerXp + `a[text()='1']`);
-    
-    // (2)    
-    if (firstPage.length === 0) {
-        firstPage = await page.$x(pagerXp + `a[text()='<<']`);
-    }
+    firstPage = await page.$x(firstPageLinkXp);
 
-    // (3)
-    if (firstPage.length === 0) {
-        firstPage = await page.$x(pagerXp + `span[text()='1']`);
-        
-        if (firstPage.length > 0) {
-            firstPage = null;
-        }
-    }
-
-    if (firstPage) {
+    if (firstPage.length > 0) {
         await firstPage[0].click();
     }
+    
+    await page.waitForXPath(firstPageCurrXp);    
 }
 
 async function scrapeMemberTable(page) {
@@ -158,13 +146,13 @@ async function scrapeAllPages(page) {
 
     // The pager won't reset back to page 1 on its own
     // so we have to explicitly click on the page 1 link
-    //await gotoFirstPage(page);
+    await gotoFirstPage(page);
     return results;
 }
 
 async function run() {
-    //const browser = await puppeteer.launch({ headless: false, slowMo: 250 });
-    const browser = await puppeteer.launch({ headless: true, args: [ '--start-fullscreen' ] });
+    const browser = await puppeteer.launch({ headless: false, slowMo: 250 });
+    //const browser = await puppeteer.launch({ headless: true, args: [ '--start-fullscreen' ] });
     const page = await browser.newPage();
 
     page.on('console', msg => console.log('PAGE LOG:', msg.text()));
