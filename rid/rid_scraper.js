@@ -17,47 +17,35 @@ async function getSelectOptions(page, selector) {
 }
 
 async function getStates(page) {
-    const options = await page.evaluate(optionSelector => {
-        return Array.from(document.querySelectorAll(optionSelector))
-            .filter(o => o.value)
-            .map(o => {
-                return {
-                    name: o.text,
-                    value: o.value
-                };
-            });        
-    }, 'select#FormContentPlaceHolder_Panel_stateDropDownList > option');
-
-    return options;
+    return await getSelectOptions(page, 'select#FormContentPlaceHolder_Panel_stateDropDownList > option');
 }
 
 async function setMaxPageSize(page) {
     let html = await page.content();
-    let re = new RegExp('ctl00\\$FormContentPlaceHolder\\$Panel\\$resultsGrid\\$ctl\\d+\\$ctl\\d+');
-    let match = re.exec(html);
+    let pageSizeNameRe = new RegExp(
+        'ctl00\\$FormContentPlaceHolder\\$Panel\\$resultsGrid\\$ctl\\d+\\$ctl\\d+'
+    );
 
-    if (match.length > 0) {
-        let name = match[0];
-        let elem = await page.$(`select[name="${name}"]`);
-        let memberTable = await page.$('#FormContentPlaceHolder_Panel_resultsGrid');
+    let match = pageSizeNameRe.exec(html);
+    if (match.length <= 0) {
+        return;
+    } 
 
-        // Selecting the page size triggers ajax so we wait until the selected option
-        // value is '50'
-        await page.select(`select[name="${name}"]`, '50');
+    let pageSizeName = match[0];
+    let memberTable = await page.$('#FormContentPlaceHolder_Panel_resultsGrid');    
 
-        // https://github.com/GoogleChrome/puppeteer/issues/1724
-        await page.waitForFunction(
-            (e) => e.value === '50',
-            { polling: 'raf' }, elem
-        );
-        
-        // Wait till the old memberTable gets detached from dom
-        // https://github.com/GoogleChrome/puppeteer/issues/640
-        await page.waitForFunction(
-            e => !e.ownerDocument.contains(e),
-            { polling: 'raf' }, memberTable
-        );
-    }
+    await page.select(`select[name="${pageSizeName}"]`, '50');
+    
+    /*
+     * Selecting the page size triggers an ajax request for the new member table data.
+     * We need to wait until that new table data gets loaded before trying to scrape.
+     * So we wait until the old member table gets detached from the DOM as the signal
+     * that the new table has been loaded
+     */
+    await page.waitForFunction(
+        e => !e.ownerDocument.contains(e),
+        { polling: 'raf' }, memberTable
+    );
 }
 
 /*------------------------------------------------------------------------------
@@ -65,6 +53,10 @@ async function setMaxPageSize(page) {
  * in href:
  *
  * <a href="javascript:__doPostBack('ctl00$FormContentPlaceHolder$Panel$resultsGrid','Page$6')">...</a>
+ *
+ * After the next page link gets clicked and the new page is loaded the pager
+ * will show the current page within a span (not as a link). So we wait until 
+ * pageno appears within a span to indicate that the next page is finished loading.
  */ 
 async function gotoNextPage(page, pageno) {
     let noMorePages = true;
@@ -76,14 +68,10 @@ async function gotoNextPage(page, pageno) {
     
     if (nextPage.length > 0) {
         console.log(`Going to page ${pageno}`);
+        
         await nextPage[0].click();
+        await page.waitForXPath(currPageXp);
         
-        page.evaluate(_ => {
-            window.scrollBy(0, window.innerHeight);
-        });
-        
-        await page.screenshot({path: 'after_next_page_click.png', fullPage: true});
-        await page.waitForXPath(currPageXp); 
         noMorePages = false;
     }
 
