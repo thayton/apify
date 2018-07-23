@@ -159,7 +159,7 @@ async function scrapeAllPages(page) {
     return results;
 }
 
-async function run() {
+async function main() {
     //const browser = await puppeteer.launch({ headless: false, slowMo: 250 });
     const browser = await puppeteer.launch({ headless: true, args: [ '--start-fullscreen' ] });
     const page = await browser.newPage();
@@ -167,7 +167,7 @@ async function run() {
     page.on('console', msg => console.log('PAGE LOG:', msg.text()));
     
     await page.goto(url);
-
+    
     let states = await getStates(page);
     
     for (const [ i, state ] of states.entries()) {
@@ -205,7 +205,8 @@ async function run() {
         }
     }
 
+    await page.close();
     browser.close();
-};
+}
 
-run();
+main();
