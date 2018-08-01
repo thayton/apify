@@ -204,15 +204,20 @@ async function main() {
             await page.waitForSelector('#FormContentPlaceHolder_Panel_resultsGrid');
         }
 
+        /*
+         * The page size is retained after the first time its set, so we only
+         * need to call this once
+         */
         if (i === 0) {
             await setMaxPageSize(page);
         }
 
         let data = await scrapeAllPages(page);
         
-        console.log(`Got ${data.length} records in all`);
+        console.log(`Got ${data.length} records for state ${state.name}`);
         console.log(JSON.stringify(data, null, 2));
-        
+
+        /* Only grab the first three states for demo purposes */
         if (i >= 2) {
             break;
         }
