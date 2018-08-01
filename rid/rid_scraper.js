@@ -1,3 +1,15 @@
+/*
+ * Companion code for article at http://toddhayton.com/
+ *
+ * Setup:
+ *   $ mkdir scraper/
+ *   $ cd scraper/
+ *   $ npm init -y
+ *   $ npm install puppeteer --save
+ * 
+ * Usage:
+ *   $ node rid_scraper.js
+ */
 const puppeteer = require('puppeteer');
 const url = 'https://myaccount.rid.org/Public/Search/Member.aspx';
 
@@ -160,8 +172,7 @@ async function scrapeAllPages(page) {
 }
 
 async function main() {
-    //const browser = await puppeteer.launch({ headless: false, slowMo: 250 });
-    const browser = await puppeteer.launch({ headless: true, args: [ '--start-fullscreen' ] });
+    const browser = await puppeteer.launch({ slowMo: 250 });
     const page = await browser.newPage();
 
     page.on('console', msg => console.log('PAGE LOG:', msg.text()));
@@ -198,15 +209,17 @@ async function main() {
         }
 
         let data = await scrapeAllPages(page);
+        
         console.log(`Got ${data.length} records in all`);
-
+        console.log(JSON.stringify(data, null, 2));
+        
         if (i >= 2) {
             break;
         }
     }
 
     await page.close();
-    browser.close();
+    await browser.close();
 }
 
 main();
