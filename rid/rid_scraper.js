@@ -102,7 +102,7 @@ async function gotoNextPage(page, pageno) {
  * Go back to the first page of results in order to reset the pager. Once the 
  * first page link is clicked and becomes the current page the page 1 link will 
  * appear inside of <span>1</span>. So we can determine once page 1 has finished
- * loading by wait inguntil page 1 appears inside of this span. 
+ * loading by waiting until page 1 appears inside of this span. 
  *
  * Note that there might not be a page 1 link because there was only one page of 
  * results. In that case the page will still show up as <span>1</span> element. 
