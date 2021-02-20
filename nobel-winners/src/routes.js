@@ -126,7 +126,7 @@ exports.handleBio = async ({ request, $, crawler: { requestQueue } }) => {
     winner['mini_bio'] = getMiniBio($);
     winner['mini_bio'] = resolveRelativeUrls(winner['mini_bio'], request.loadedUrl, $);
 
-    log.debug(`data => ${JSON.stringify(data)}`);
+    log.debug(`data => ${JSON.stringify(winner)}`);
 
     wikidata_link = $('li#t-wikibase > a').attr('href');
 
