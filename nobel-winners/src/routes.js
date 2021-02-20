@@ -7,6 +7,16 @@ const resolveUrl = (href, baseUrl) => {
     return url.href;
 };
 
+const resolveRelativeUrls = (htmlStr, baseUrl, $) => {
+    let d = $(`<div>${htmlStr}</div>`)
+    
+    $('a:not([href^=http])', d).each((i,a) => {
+        $(a).attr('href', resolveUrl( $(a).attr('href'), baseUrl ));
+    });
+    let html = d.html();
+    return html;
+};
+
 const processWinner = (country, li, $) => {
     data = {};
     text = $(li).text();
@@ -104,8 +114,6 @@ const getMiniBio = ($) => {
     let mini_bio = '';
     let p = $('table.infobox').next('p');
 
-    log.debug('Getting mini-bio information...');
-
     mini_bio += p.html();
     mini_bio += $(p).nextUntil(':not(p)').map(
         (i,e) => $(e).html()
@@ -118,7 +126,8 @@ exports.handleBio = async ({ request, $, crawler: { requestQueue } }) => {
     const winner = request.userData.winner;
     
     winner['mini_bio'] = getMiniBio($);
-    
+    winner['mini_bio'] = resolveRelativeUrls(winner['mini_bio'], request.loadedUrl, $);
+
     wikidata_link = $('li#t-wikibase > a').attr('href');
 
     const req = new Apify.Request({ url: wikidata_link });
