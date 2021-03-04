@@ -1,0 +1,3517 @@
+{
+   "filtered":{
+      "total":484,
+      "minPrice":78987,
+      "maxPrice":2875000,
+      "minYear":1972,
+      "maxYear":2021,
+      "minModelYear":2020,
+      "maxModelYear":2020,
+      "minOdo":0,
+      "maxOdo":41607,
+      "minCC":2855,
+      "maxCC":6500,
+      "make":[
+         "ferrari"
+      ],
+      "class":[
+         "348 spider",
+         "gtc4lusso",
+         "360 challenge",
+         "328 gts",
+         "488 gtb",
+         "360",
+         "458 challenge",
+         "f12berlinetta",
+         "classic",
+         "f12tdf",
+         "laferrari",
+         "488 spider",
+         "f8",
+         "812 superfast",
+         "california",
+         "599",
+         "612 scaglietti",
+         "f430",
+         "488 pista",
+         "special",
+         "ff",
+         "458 speciale a",
+         "gtc4lusso t",
+         "575 superamerica",
+         "portofino",
+         "550",
+         "488 challenge",
+         "512bb",
+         "f355",
+         "488 pista spider",
+         "458"
+      ],
+      "model":[
+         "348 spider",
+         "488 pista spider",
+         "512bb",
+         "550 maranello",
+         "599 gtb fiorano",
+         "488 challenge",
+         "550 barchetta",
+         "288 gto",
+         "f430 coupe",
+         "f430 spider",
+         "portofino",
+         "575 superamerica",
+         "458 spider",
+         "360 spider",
+         "sa aperta",
+         "430 scuderia",
+         "458 italia",
+         "enzo",
+         "gtc4lusso t",
+         "458 speciale a",
+         "f355 berlinetta",
+         "testarossa",
+         "ff",
+         "488 pista",
+         "612 scaglietti",
+         "california",
+         "812 superfast",
+         "488 spider",
+         "scuderia spider 16m",
+         "f8",
+         "575m maranello",
+         "360 modena",
+         "512 tr",
+         "f12tdf",
+         "laferrari",
+         "f12berlinetta",
+         "classic",
+         "458 challenge",
+         "488 gtb",
+         "328 gts",
+         "458 speciale",
+         "599 gto",
+         "360 challenge",
+         "gtc4lusso",
+         "california t",
+         "f355 spider"
+      ],
+      "model_variant":[
+         "evo",
+         "tailor made",
+         "tributo",
+         "spider 16m",
+         "perta",
+         "i",
+         "70th anniversary",
+         "he",
+         "308",
+         "stradale"
+      ],
+      "fuel":[
+         "petrol",
+         "premium ulp",
+         "electric"
+      ],
+      "metacolour":[
+         "blue",
+         "red",
+         "green",
+         "yellow",
+         "white",
+         "grey",
+         "silver",
+         "black"
+      ],
+      "transmission":[
+         "dual-clutch, 7-speed f1",
+         "manual",
+         "automatic",
+         "f1",
+         "dct"
+      ],
+      "transmission_type":[
+         "manual",
+         "automatic",
+         "f1"
+      ],
+      "bodystyle":[
+         "convertible",
+         "2-door coupe",
+         "estate",
+         "5-door hatchback"
+      ],
+      "body_type":[
+         "5-door hatchback",
+         "estate",
+         "2-door coupe",
+         "convertible"
+      ],
+      "drivetrain":[
+         
+      ],
+      "approved":412,
+      "new":1,
+      "used":483,
+      "demo":0,
+      "town":[
+         "las vegas",
+         "bryn mawr",
+         "west bloomfield",
+         "roswell",
+         "newport beach",
+         "phoenix",
+         "dublin",
+         "spring valley",
+         "seattle",
+         "plainview",
+         "plano",
+         "wilsonville",
+         "fort lauderdale",
+         "orlando",
+         "hinsdale",
+         "miami",
+         "palm harbor",
+         "redwood city",
+         "austin",
+         "lake bluff",
+         "greenwich",
+         "greensboro",
+         "highlands ranch",
+         "san diego",
+         "beverly hills",
+         "sterling",
+         "torrance",
+         "houston",
+         "rancho mirage",
+         "the woodlands",
+         "west palm beach",
+         "edison",
+         "san antonio",
+         "mill valley",
+         "salt lake city",
+         "thousand oaks"
+      ],
+      "currency":[
+         "USD"
+      ],
+      "metabody_type":[
+         "hatchback",
+         "coupe",
+         "estate",
+         "convertible"
+      ],
+      "van":0,
+      "trim_material":[
+         
+      ],
+      "trim_shade":[
+         
+      ],
+      "model_type":[
+         "v12",
+         "v8"
+      ],
+      "metatrim_material":[
+         
+      ],
+      "sub_brand":[
+         
+      ],
+      "features":[
+         "Central Tunnel in Leather",
+         "Navigation System",
+         "Universal Garage Door Opener",
+         "Electronic Stability Control",
+         "Convertible Soft Top",
+         "High intensity discharge headlights: Bi-Xenon",
+         "Magneride Dual Mode Suspension",
+         "Leather Upholstery Seat Backrest",
+         "Multi-Zone A\/C",
+         "Bluetooth Connection",
+         "Remote Trunk Release",
+         "Wheels: Front 20 x 9.5\/Rear 20 x 11.5 Alloy",
+         "Front Radar with Acc",
+         "Passenger vanity mirror",
+         "Alcantara Trimmed Inner Wheel Arches",
+         "Matt Painted Inn. Carbon Fibre",
+         "GRIGIO ALLOY METALLIC",
+         "Carbon Fibre Underdoor Cover",
+         "Color Upon Request - Leather Lower Dashboard",
+         "Carbon Fibre Inner Sill Trim",
+         "Telescoping steering wheel",
+         "Horse Stitched on Headrest",
+         "Full Electric Seats",
+         "Inner & Outer Electrochromatic Rearview Mirror",
+         "Front anti-roll bar",
+         "MP3 decoder",
+         "Color Upon Request for Leather Rear Shelf",
+         "Premium Sound System",
+         "Mirror Memory",
+         "Leather Seat Trim",
+         "Carbon Fibre Racing Seats",
+         "Special Features",
+         "Rear Reading Lamps",
+         "Carbon Fibre Upper Tunnel Trim",
+         "CD Player",
+         "Sports exhaust",
+         "Carbon Fibre Front Flaps",
+         "Entertainment System",
+         "Carbon Fibre Dashboard Inserts",
+         "Coloured Mats with Logo",
+         "Surround View",
+         "AFS System",
+         "Racing Carbon Seats",
+         "Rear Defrost",
+         "Power Folding Mirrors",
+         "Wheels: 8.5J x 20 Fr & 10.5J x 20 Rr Forged Diamond",
+         "Floor Mats",
+         "Carbon Fiber\/Leather Steering Wheel w\/LED RPM Indicator",
+         "BIANCO AVUS",
+         "AM\/FM Radio",
+         "AM\/FM radio: SiriusXM",
+         "Alcantara Seat Trim",
+         "Tilt steering wheel",
+         "Wheels: 20 x 10 Fr & 20 x 11.5 Rr Dark Painted",
+         "Hi-Fi Premium Sound System",
+         "Carbon Rear Moulding",
+         "Driver Air Bag",
+         "Voltmeter",
+         "Power Driver Seat",
+         "Cassette",
+         "Rear Wheel Drive",
+         "Outside temperature display",
+         "Auto-dimming door mirrors",
+         "Overhead console",
+         "Apple Carplay",
+         "Carbon Fiber Side Air Splitter",
+         "Carbon Fibre Rear Moulding",
+         "Front Airvents in Carbon Fibre",
+         "Tow-Tone Stripe",
+         "Coloured Safety Belts",
+         "Inner Color Door Panel Trim",
+         "Yellow Brake Calipers",
+         "Carbon Fibre Central Bridge",
+         "Carbon Fiber Rear Air Ducts",
+         "Sport Exhaust System",
+         "Color Upon Request - Leather Central Tunnel",
+         "8 Speakers",
+         "Interior 3D Fabric Colour-Tessuto T3D1 Grigio",
+         "20 Forged Dark Painted Rims",
+         "Red Rev. Counter",
+         "Satellite Navigation System",
+         "Carbon Fiber Racing Style Seats",
+         "Rosso Scuderia Brake Calipers",
+         "Scuderia Ferrari Shields",
+         "Leather Steering Wheel",
+         "Power Bucket Seats",
+         "Racing Stripe",
+         "Adaptive Front Lights + Sbl",
+         "Emergency Trunk Release",
+         "AM\/FM CD\/MP3\/DVD\/USB\/HDD w\/Navigation",
+         "Color Upon Request - Leather Insert",
+         "Weather band radio",
+         "20\" Forged Painted Rims",
+         "Back-Up Camera",
+         "AM\/FM Stereo",
+         "Headlights-Auto-Leveling",
+         "Alcantara Upholstery for Headliner",
+         "Color Upon Request - Leather Upper Part",
+         "Black Ceramic Exhaust Pipes",
+         "Armrest on Tunnel in Leather",
+         "Automatic Headlights",
+         "Racing Livery W.Italian Flag",
+         "Wheels: 20 Forged Matt Grigio Corsa",
+         "Ceramic disc brakes",
+         "Memory seat",
+         "Foldable Rear Seat Backs",
+         "Carbon Racing Seats",
+         "ExtraCampionario 3\/4 Layers Paint",
+         "Color Upon Request - Seat Belts",
+         "Rear Diffuser in Carbon Fibre",
+         "Tyres Pressure Management",
+         "Fully automatic headlights",
+         "Auto-Dimming Rearview Mirror",
+         "Security System",
+         "Alluminum Brake Calipers",
+         "Carbon Fiber Front Spoiler & Aerodynamic Fins",
+         "Carbon Fibre Cup Holder",
+         "Climate Control",
+         "Handling Speciale Package",
+         "20 Forged Painted Rims",
+         "Personalization Pack",
+         "Italian Flag",
+         "Keyless Start",
+         "Passenger Air Bag On\/Off Switch",
+         "Keyless Entry",
+         "Traction Control",
+         "Split folding rear seat",
+         "Radio: Harmon\/kardon AM\/FM\/MP3\/USB\/6-Disc CD",
+         "Adaptive Front Lights+SBL",
+         "Carbon Underdoor Cover",
+         "Color Upon Request - Leather Rear Wall Parcel Shelf",
+         "Front Center Armrest",
+         "Color Upon Request - Standard Stitching",
+         "Exterior Parking Camera Rear",
+         "Convertible HardTop",
+         "Driver Adjustable Lumbar",
+         "Racing livery",
+         "Premium Synthetic Seats",
+         "Wheels: 20 x 9 Fr & 20 x 11 Rr Painted Forged",
+         "Steering Wheel Audio Controls",
+         "Alcantara Central Tunnel",
+         "Coloured Steering Wheel",
+         "Yellow Rev Counter",
+         "High-Intensity Discharge Headlights",
+         "Locking\/Limited Slip Differential",
+         "Interior 3D Fabric Colour",
+         "Coloured Inner Details",
+         "Interior Leather Color for Upper Door Panel",
+         "Passenger cancellable airbag",
+         "Ferrari Historical Colors",
+         "Back Radar",
+         "Passenger Adjustable Lumbar",
+         "Power door mirrors",
+         "Wheels: 20 x 9 Fr & 20 x 11 Rr Forged Dark Painted",
+         "DVD-Audio",
+         "Daytona Style Seat Trim",
+         "4-Way Power Driver\/Passenger Bucket Seats",
+         "Delay-off headlights",
+         "A\/C",
+         "Four wheel independent suspension",
+         "RadiNavi System+Bluetooth",
+         "Coloured Special Stitching",
+         "Wheels: 8.5J x 20 Fr & 10.5J x 20 Rr Forged Nurburgring Silver",
+         "Passenger Display",
+         "Speed-Sensitive Wipers",
+         "Colour Upon Request for Piping",
+         "Front Suspension Lifter",
+         "Rain sensing wipers",
+         "Speed-sensing steering",
+         "Carb.Fib.Steering Wheel+LEDs",
+         "Front Bucket Seats",
+         "Interior & Exterior Electrochromatic Mirrors w\/HomeLink System",
+         "Headliner Alcantara Nera",
+         "Power steering",
+         "harman\/kardon Speakers",
+         "Rear fog lights",
+         "Diamond Pattern Style Seats",
+         "Power Passenger Seat",
+         "Nero Lucido Brake Calipers",
+         "Rain Sensing Wipers",
+         "Chrome Front Grille",
+         "Fog Lamps",
+         "Carbon Fiber Trim For Door Panels",
+         "Ceramic disc brakes: front and rear",
+         "Power Door Locks",
+         "Tachometer",
+         "Inner Electrochromatic Rearview Mirror & Homelink",
+         "Trip Computer",
+         "Air Conditioning",
+         "ROSSO FERRARI  LEATHER SEAT TRIM",
+         "Speed control",
+         "Us Functional Equipment",
+         "White Tachometer",
+         "Rear reading lights",
+         "ExtraCampionario External Colors",
+         "Extracampionario Coloured Inner Details",
+         "Tires - Front Performance",
+         "ExtraCampionario Interior colors",
+         "Remote CD player",
+         "Magnetorheological Shocks",
+         "Tire Pressure Monitor",
+         "Steering wheel mounted audio controls",
+         "Carbon Fiber Steering Wheel w\/LED",
+         "Variable Speed Intermittent Wipers",
+         "Alluminum Rev. Counter",
+         "RadioNavi System + Bluetooth",
+         "HID headlights",
+         "Reverse Camera System",
+         "White Rev Counter",
+         "Heated door mirrors",
+         "Generic Sun\/Moonroof",
+         "ExtraCampionario Special Stitching",
+         "Alcantara Rear Wall",
+         "Colored Extra Carpets w\/Logo",
+         "Interior Leather Color for Rear Upper Part",
+         "Automatic temperature control",
+         "Glass rear window",
+         "Passenger door bin",
+         "Radio: AM\/FM\/MP3\/USB\/6-Disc CD w\/30GB Hard Disc Drive",
+         "Alcantara Dashboard",
+         "Brake Assist",
+         "Embroidered Prancing Horse on Headrest",
+         "Parking sensors",
+         "Carbon Fibre Wheels Cup",
+         "Color Upon Request for Alcantara Trimmed Dashboard",
+         "Front Suspension Lift System",
+         "Rear Bucket Seats",
+         "Hard Disk Drive Media Storage",
+         "Full electric seats",
+         "Power Outlet",
+         "Tyres Pressure Measurement",
+         "Color Upon Request for Standard Stitching",
+         "Rollover Protection Bars",
+         "Color Upon Request for Alcantara Upholstery Headliner",
+         "Power Tilt\/Scope Steering Wheel",
+         "Yellow Rev. Counter",
+         "Tow-tone Stripe",
+         "Emph with Special Thread",
+         "Turbocharged",
+         "NERO",
+         "Passenger Air Bag Sensor",
+         "Platinum Award Winner at the Ferrari Club of America Fall Festival (Trophy Included)",
+         "Security system",
+         "Carb. Fib. Steering Wheel+LEDs",
+         "CLDT with Special Leather",
+         "Tires - Rear Performance",
+         "Rear window defroster",
+         "Low tire pressure warning",
+         "Front & Rear Parking Sensors",
+         "Cargo Shade",
+         "Front dual zone A\/C",
+         "3\/4 Layers Paint",
+         "Parking Sensor",
+         "Variably intermittent wipers",
+         "Inn\/Out Elettr Mirror+Homelink",
+         "Radio: AM\/FM harman\/kardon Audio System",
+         "Leather & Alcantara Two-Color Interior",
+         "Suspension Lifter",
+         "Bumpers: body-color",
+         "Coloured Standard Stitching",
+         "Color Upon Request for Special Contrasting Stitching",
+         "Carbon Fiber Engine Cover",
+         "High Emotion Low Emission",
+         "Garage door transmitter",
+         "ABS brakes",
+         "Power Mirror(s)",
+         "Requires Subscription",
+         "Radio: AM\/FM Audio System",
+         "Electrochromic Rearwiew Mirror",
+         "Color Upon Request - Horse Stitched on Headrest",
+         "Front Grille w\/Chromed Edges",
+         "1986 Ferrari Testarossa Monospecchio aka Flying Mirror",
+         "Build Date: Dec\/1985",
+         "Brake assist",
+         "Brake Calipers in Scuderia Red Color",
+         "Radio: Integrated Audio System",
+         "Manuals",
+         "Aluminum Brake Calipers",
+         "Jack",
+         "20 Forged Diamond Rims",
+         "High Power HIFI System",
+         "Modena Yellow Brake Calipers",
+         "CD player",
+         "Passenger Air Bag",
+         "Seat Memory",
+         "Carbon Fib.Steering Wheel+LEDs",
+         "Titanium Exhaust",
+         "JBL Professional Premium Hi-Fi Sound System",
+         "'scuderia Ferrari' Shields",
+         "Afs System",
+         "Carbon Fibre Side Air Splitter",
+         "Apple CarPlay",
+         "Cloth Seats",
+         "Black Brake Calipers",
+         "Aluminium driver & Pass. Footrest",
+         "Racing Seat Lifter",
+         "Wheels: 20 x 9.5 Fr & 20 x 11.5 Rr Dark Gray",
+         "Handly Fire Extinguisher",
+         "Carb. Fib. Steering Wheel + LEDs",
+         "Temporary Spare Tire",
+         "Upgrade Hifi system",
+         "Yellow Tachometer Counter",
+         "Rear anti-roll bar",
+         "Advanced Front Lighting System",
+         "Rear seat center armrest",
+         "Daytona Style Seat",
+         "Dual View Front Parking Camera",
+         "Heated front seats",
+         "Heated Mirrors",
+         "Infotainment System w\/Navigation & Bluetooth",
+         "Panic alarm",
+         "Electric Steering Column",
+         "Air Suspension",
+         "Coloured Inner Details (Rosso Ferrari)",
+         "Brake Calipers in Yellow Color",
+         "Leather Pouch and Window Sticker.",
+         "Rosso Corsa Brake Calipers",
+         "Driver Seat Adjustment Device",
+         "Smartphone Connection",
+         "MP3 Player",
+         "Passenger Illuminated Visor Mirror",
+         "Front and Rear Parking Cameras",
+         "Ferrari Telemetry",
+         "Front and Rear Parking Sensors",
+         "Exterior Sport Grilles",
+         "Power windows",
+         "Convertible roof lining",
+         "Traction control",
+         "Leather steering wheel",
+         "GRIGIO SILVERSTONE METALLIC",
+         "Sport Bucket Seats",
+         "Driver's Seat Adjustment Device",
+         "Tela Colore Nero Soft Top Colour",
+         "Cell Phone Hookup",
+         "Carbon Fibre Exterior Package",
+         "Carbon Fiber Upper Tunnel Trim",
+         "Bucket Seats",
+         "Smart Device Integration",
+         "Power passenger seat",
+         "Brake Calipers in Aluminum Grey Color",
+         "19 Silver Alloy Wheels",
+         "Front Grill with Chromed Edges",
+         "Power Windows",
+         "Heated Front Seat(s)",
+         "Power driver seat",
+         "CD Changer",
+         "Trip computer",
+         "Color Upon Request - Colored Stitching",
+         "Alcantara Seats Inner Trim",
+         "20\" Forged Diamond Rims",
+         "Radio data system",
+         "Alcantara Wheel Arches",
+         "ABS",
+         "Stability Control",
+         "Alcantara Upholstery for Upper Zone",
+         "ROSSO CORSA",
+         "Compass",
+         "Rear Spoiler",
+         "Headlight cleaning",
+         "Dual front side impact airbags",
+         "Sport steering wheel",
+         "4-Wheel Disc Brakes",
+         "Leather Central Tunnel",
+         "'Scuderia Ferrari' Shields",
+         "Wheels: 20 x 10 Fr & 20 x 11.5 Rr Forged Diamond",
+         "Bluetooth",
+         "CALR RED BRAKE CALIPERSCEXF\tCARBON FIBER HEADLIGHT BUCKETCIDL\tCARBON FIBRE DRIVER ZONE+LEDSCILR\tCARBON FIBRE CENTRAL BRIDGECIPZ\tCARBON FIBRE DOOR PANELSCISK\tEXTERIOR SILL KICK IN CARBONDATR\tCARBON FIBRE DASHBOARD INSERTSDAY1\tDAYTONA STYLE SEATEXT1\tHANDLY FIRE EXTINGUISHERINST\tINSTRUMENT PANELIPOD\tIPOD CONNECTIONLUG9\tBOOT LUGGAGE SETNDSP\tINTERNAL USEPIP2\tINNER LEATHER INSERTSRSFE\tFULL ELECTRIC SEATSSOFT\tSOFT TOP COLOURSTC2\tCOLOURED SPECIAL STITCHINGSTP1\tDAYTONA SEAT LEATHER STRIPESSUI1\tSUIT CARRIER",
+         "1 Owner Vehicle",
+         "Wheels: Front 20 x 9\/Rear 20 x 11 Gold Forged Alloy",
+         "White Tachometer Counter",
+         "Carbon exterior elements",
+         "Tyre Pressure Measurement",
+         "Power Liftgate",
+         "Power convertible roof",
+         "Cloured Mats with Logo",
+         "All Wheel Drive",
+         "Heat Insulating Windscreen",
+         "Illuminated entry",
+         "Satellite Radio",
+         "Matt Grigio Corsa STD Wheels",
+         "Garage Door Openers",
+         "Foldable Rear Seats Backrest",
+         "Auxiliary Audio Input",
+         "Scuderia Ferrari Shields on Fenders",
+         "AM\/FM radio",
+         "Leather Upholstery For Seat Backrest",
+         "One owner since New.",
+         "Dual front impact airbags",
+         "Sports Sill Cover",
+         "Daytime Running Lights",
+         "Aluminium Driver&Pass. Footrest",
+         "Advanced Front Driving Camera",
+         "Leather Seats",
+         "Power Steering",
+         "BEIGE TRADIZIONE  LEATHER SEAT TRIM",
+         "Front reading lights",
+         "7 Speakers",
+         "Stile 3D Racing Seat",
+         "Homelink",
+         "Adaptive suspension",
+         "Daytona Style Rear Seat",
+         "Adjustable Steering Wheel",
+         "Active Suspension",
+         "4 Speakers",
+         "Parking Camera",
+         "Rear Parking Aid",
+         "Spoiler",
+         "Advanced Front Lighting System (AFS)",
+         "Alcantara\/3D Fabric w\/Carbon Fiber Seatbacks",
+         "Carbon Fibre Driver Zone+LEDs",
+         "Panoramic Roof",
+         "Driver door bin",
+         "Black Panor. Roof End Section",
+         "Carbon interior elements",
+         "Two Tone Body Painting",
+         "Scuderia Ferrari Shields On Fenders",
+         "Front Side Air Bag",
+         "Auto-dimming Rear-View mirror",
+         "Intermittent Wipers",
+         "RadioNav system+Bluetooth",
+         "Aluminum Wheels",
+         "Front Racing Seats",
+         "Adjustable Pedals",
+         "Aluminium Driver&pass.Footrest",
+         "Wheels: 20 x 9 Fr & 20 x 11 Rr Alloy",
+         "Integrated roll-over protection",
+         "Additional CD Reader",
+         "Electrochromic Rearview Mirror",
+         "Passenger Vanity Mirror",
+         "Cruise Control",
+         "Sport Exhaust Pipes",
+         "Remote keyless entry",
+         "Convertible Hardtop",
+         "Estrattore Base",
+         "High Power Hifi System",
+         "Privacy Glass",
+         "Convertible roof wind blocker",
+         "Red Brake Calipers",
+         "Pass-Through Rear Seat",
+         "Alcantara Seat Inner Trim",
+         "Carbon Fibre Instrument Cluster",
+         "AM\/FM Stereo w\/CD Player",
+         "Comes with all of the Original Tool Kit",
+         "Front Reading Lamps",
+         "Alcantara Upholstery",
+         "6 Speakers",
+         "LED Headlights",
+         "Panoramic roof",
+         "20 Diamond-Finish Sport Alloy Wheels",
+         "Engine Immobilizer",
+         "BEIGE TRADIZIONE  LEATHER & ALCANTARA INTERIOR TRIM"
+      ],
+      "equipment_meta":[
+         "Carbon interior elements",
+         "Parking sensors",
+         "Full electric seats",
+         "Sports exhaust",
+         "Racing livery",
+         "Panoramic roof",
+         "Carbon exterior elements",
+         "Upgrade Hifi system"
+      ],
+      "make_dynamic":[
+         "ferrari"
+      ],
+      "sub_brand_dynamic":[
+         
+      ],
+      "class_dynamic":[
+         "488 challenge",
+         "360 challenge",
+         "gtc4lusso",
+         "f12berlinetta",
+         "classic",
+         "360",
+         "488 gtb",
+         "328 gts",
+         "458 challenge",
+         "488 spider",
+         "f8",
+         "f12tdf",
+         "laferrari",
+         "special",
+         "f430",
+         "488 pista",
+         "612 scaglietti",
+         "california",
+         "599",
+         "812 superfast",
+         "gtc4lusso t",
+         "458 speciale a",
+         "ff",
+         "575 superamerica",
+         "portofino",
+         "550",
+         "458",
+         "488 pista spider",
+         "f355",
+         "512bb",
+         "348 spider"
+      ],
+      "model_dynamic":[
+         "488 challenge",
+         "360 challenge",
+         "gtc4lusso",
+         "288 gto",
+         "california t",
+         "f355 spider",
+         "f12berlinetta",
+         "classic",
+         "458 challenge",
+         "488 gtb",
+         "328 gts",
+         "458 speciale",
+         "599 gto",
+         "488 spider",
+         "scuderia spider 16m",
+         "f8",
+         "575m maranello",
+         "360 modena",
+         "512 tr",
+         "f12tdf",
+         "laferrari",
+         "488 pista",
+         "612 scaglietti",
+         "california",
+         "812 superfast",
+         "gtc4lusso t",
+         "458 speciale a",
+         "f355 berlinetta",
+         "testarossa",
+         "ff",
+         "458 spider",
+         "360 spider",
+         "sa aperta",
+         "430 scuderia",
+         "458 italia",
+         "enzo",
+         "550 barchetta",
+         "f430 coupe",
+         "f430 spider",
+         "575 superamerica",
+         "portofino",
+         "348 spider",
+         "488 pista spider",
+         "512bb",
+         "550 maranello",
+         "599 gtb fiorano"
+      ],
+      "body_type_dynamic":[
+         "2-door coupe",
+         "estate",
+         "5-door hatchback",
+         "convertible"
+      ],
+      "minPrice_dynamic":56608,
+      "maxPrice_dynamic":2060435,
+      "minOdo_dynamic":0,
+      "maxOdo_dynamic":41607,
+      "metacolour_dynamic":[
+         "red",
+         "green",
+         "blue",
+         "yellow",
+         "white",
+         "grey",
+         "black",
+         "silver"
+      ],
+      "fuel_dynamic":[
+         "electric",
+         "petrol",
+         "premium ulp"
+      ],
+      "transmission_dynamic":[
+         "manual",
+         "f1",
+         "dct",
+         "dual-clutch, 7-speed f1",
+         "automatic"
+      ],
+      "minYear_dynamic":1972,
+      "maxYear_dynamic":2021,
+      "model_variant_dynamic":[
+         "i",
+         "he",
+         "70th anniversary",
+         "308",
+         "tailor made",
+         "stradale",
+         "tributo",
+         "evo",
+         "spider 16m",
+         "perta"
+      ],
+      "equipment_meta_dynamic":[
+         "Panoramic roof",
+         "Carbon exterior elements",
+         "Parking sensors",
+         "Full electric seats",
+         "Upgrade Hifi system",
+         "Sports exhaust",
+         "Carbon interior elements",
+         "Racing livery"
+      ],
+      "tree":{
+         "classes":{
+            "458":{
+               "models":{
+                  "458 italia":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":148894,
+                     "minPrice_formatted":"$148,895",
+                     "total":52
+                  },
+                  "458 speciale":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":339990,
+                     "minPrice_formatted":"$339,990",
+                     "total":10
+                  },
+                  "458 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":199900,
+                     "minPrice_formatted":"$199,900",
+                     "total":12
+                  }
+               },
+               "minPrice":148894,
+               "minPrice_formatted":"$148,895"
+            },
+            "812 superfast":{
+               "models":{
+                  "812 superfast":{
+                     "body_type":[
+                        "2-door coupe",
+                        "5-door hatchback"
+                     ],
+                     "minPrice":309000,
+                     "minPrice_formatted":"$309,000",
+                     "total":116
+                  }
+               },
+               "minPrice":309000,
+               "minPrice_formatted":"$309,000"
+            },
+            "f12berlinetta":{
+               "models":{
+                  "f12berlinetta":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":214899,
+                     "minPrice_formatted":"$214,900",
+                     "total":36,
+                     "model_variant":[
+                        "70th anniversary"
+                     ]
+                  }
+               },
+               "minPrice":214899,
+               "minPrice_formatted":"$214,900"
+            },
+            "california":{
+               "models":{
+                  "california t":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":144989,
+                     "minPrice_formatted":"$144,989",
+                     "total":38
+                  },
+                  "california":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":99840,
+                     "minPrice_formatted":"$99,841",
+                     "total":56
+                  }
+               },
+               "minPrice":99840,
+               "minPrice_formatted":"$99,841"
+            },
+            "488 spider":{
+               "models":{
+                  "488 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":248000,
+                     "minPrice_formatted":"$248,000",
+                     "total":47
+                  }
+               },
+               "minPrice":248000,
+               "minPrice_formatted":"$248,000"
+            },
+            "488":{
+               "minPrice":199894,
+               "minPrice_formatted":"$199,895",
+               "models":{
+                  "488 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":248000,
+                     "minPrice_formatted":"$248,000",
+                     "total":47
+                  },
+                  "488 gtb":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":199894,
+                     "minPrice_formatted":"$199,895",
+                     "total":25
+                  },
+                  "488 challenge":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":204990,
+                     "minPrice_formatted":"$204,990",
+                     "total":4,
+                     "model_variant":[
+                        "evo"
+                     ]
+                  },
+                  "488 pista":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":419900,
+                     "minPrice_formatted":"$419,900",
+                     "total":30
+                  },
+                  "488 pista spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":579995,
+                     "minPrice_formatted":"$579,995",
+                     "total":15
+                  }
+               }
+            },
+            "575 superamerica":{
+               "models":{
+                  "575 superamerica":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":224894,
+                     "minPrice_formatted":"$224,895",
+                     "total":10
+                  }
+               },
+               "minPrice":224894,
+               "minPrice_formatted":"$224,895"
+            },
+            "488 gtb":{
+               "models":{
+                  "488 gtb":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":199894,
+                     "minPrice_formatted":"$199,895",
+                     "total":25
+                  }
+               },
+               "minPrice":199894,
+               "minPrice_formatted":"$199,895"
+            },
+            "360":{
+               "models":{
+                  "360 modena":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":82795,
+                     "minPrice_formatted":"$82,795",
+                     "total":10
+                  },
+                  "360 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":89988,
+                     "minPrice_formatted":"$89,988",
+                     "total":2
+                  }
+               },
+               "minPrice":82795,
+               "minPrice_formatted":"$82,795"
+            },
+            "gtc4lusso":{
+               "models":{
+                  "gtc4lusso":{
+                     "body_type":[
+                        "estate",
+                        "5-door hatchback",
+                        "2-door coupe"
+                     ],
+                     "minPrice":184988,
+                     "minPrice_formatted":"$184,988",
+                     "total":82
+                  }
+               },
+               "minPrice":184988,
+               "minPrice_formatted":"$184,988"
+            },
+            "360 challenge":{
+               "models":{
+                  "360 challenge":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "model_variant":[
+                        "stradale"
+                     ],
+                     "minPrice":209900,
+                     "minPrice_formatted":"$209,900",
+                     "total":4
+                  }
+               },
+               "minPrice":209900,
+               "minPrice_formatted":"$209,900"
+            },
+            "portofino":{
+               "models":{
+                  "portofino":{
+                     "body_type":[
+                        "convertible",
+                        "2-door coupe"
+                     ],
+                     "minPrice":207899,
+                     "minPrice_formatted":"$207,900",
+                     "total":86,
+                     "model_variant":[
+                        "tailor made"
+                     ]
+                  }
+               },
+               "minPrice":207899,
+               "minPrice_formatted":"$207,900"
+            },
+            "328 gts":{
+               "models":{
+                  "328 gts":{
+                     "body_type":[
+                        "convertible",
+                        "2-door coupe"
+                     ],
+                     "minPrice":124899,
+                     "minPrice_formatted":"$124,899",
+                     "total":4
+                  }
+               },
+               "minPrice":124899,
+               "minPrice_formatted":"$124,899"
+            },
+            "f430":{
+               "models":{
+                  "scuderia spider 16m":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":298000,
+                     "minPrice_formatted":"$298,001",
+                     "total":16
+                  },
+                  "f430 coupe":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":114900,
+                     "minPrice_formatted":"$114,900",
+                     "total":12
+                  },
+                  "f430 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":123995,
+                     "minPrice_formatted":"$123,995",
+                     "total":10
+                  }
+               },
+               "minPrice":114900,
+               "minPrice_formatted":"$114,900"
+            },
+            "488 challenge":{
+               "models":{
+                  "488 challenge":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":204990,
+                     "minPrice_formatted":"$204,990",
+                     "total":4,
+                     "model_variant":[
+                        "evo"
+                     ]
+                  }
+               },
+               "minPrice":204990,
+               "minPrice_formatted":"$204,990"
+            },
+            "458 challenge":{
+               "models":{
+                  "458 challenge":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":119899,
+                     "minPrice_formatted":"$119,900",
+                     "total":8,
+                     "model_variant":[
+                        "evo"
+                     ]
+                  }
+               },
+               "minPrice":119899,
+               "minPrice_formatted":"$119,900"
+            },
+            "gtc4lusso t":{
+               "models":{
+                  "gtc4lusso t":{
+                     "body_type":[
+                        "estate"
+                     ],
+                     "minPrice":199985,
+                     "minPrice_formatted":"$199,985",
+                     "total":10
+                  }
+               },
+               "minPrice":199985,
+               "minPrice_formatted":"$199,985"
+            },
+            "458 speciale a":{
+               "models":{
+                  "458 speciale a":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":689799,
+                     "minPrice_formatted":"$689,800",
+                     "total":8,
+                     "model_variant":[
+                        "perta"
+                     ]
+                  }
+               },
+               "minPrice":689799,
+               "minPrice_formatted":"$689,800"
+            },
+            "599":{
+               "models":{
+                  "sa aperta":{
+                     "body_type":[
+                        "convertible",
+                        "2-door coupe"
+                     ],
+                     "minPrice":1000000,
+                     "minPrice_formatted":"$1,000,000",
+                     "total":12
+                  },
+                  "599 gtb fiorano":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":128895,
+                     "minPrice_formatted":"$128,896",
+                     "total":16
+                  },
+                  "599 gto":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":699899,
+                     "minPrice_formatted":"$699,899",
+                     "total":2
+                  }
+               },
+               "minPrice":128895,
+               "minPrice_formatted":"$128,896"
+            },
+            "488 pista":{
+               "models":{
+                  "488 pista":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":419900,
+                     "minPrice_formatted":"$419,900",
+                     "total":30
+                  }
+               },
+               "minPrice":419900,
+               "minPrice_formatted":"$419,900"
+            },
+            "f12tdf":{
+               "models":{
+                  "f12tdf":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":849899,
+                     "minPrice_formatted":"$849,899",
+                     "total":14
+                  }
+               },
+               "minPrice":849899,
+               "minPrice_formatted":"$849,899"
+            },
+            "special":{
+               "models":{
+                  "enzo":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "total":2
+                  },
+                  "288 gto":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "total":2
+                  }
+               }
+            },
+            "classic":{
+               "models":{
+                  "575m maranello":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":109899,
+                     "minPrice_formatted":"$109,899",
+                     "total":6
+                  },
+                  "430 scuderia":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "model_variant":[
+                        "spider 16m"
+                     ],
+                     "minPrice":319900,
+                     "minPrice_formatted":"$319,900",
+                     "total":4
+                  },
+                  "f355 spider":{
+                     "body_type":[
+                        "convertible",
+                        "2-door coupe"
+                     ],
+                     "minPrice":78987,
+                     "minPrice_formatted":"$78,987",
+                     "total":4
+                  },
+                  "testarossa":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":119984,
+                     "minPrice_formatted":"$119,985",
+                     "total":12
+                  },
+                  "classic":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "model_variant":[
+                        "he",
+                        "308"
+                     ],
+                     "minPrice":89989,
+                     "minPrice_formatted":"$89,989",
+                     "total":4
+                  },
+                  "f355 berlinetta":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":84758,
+                     "minPrice_formatted":"$84,758",
+                     "total":2
+                  },
+                  "550 maranello":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":139000,
+                     "minPrice_formatted":"$139,001",
+                     "total":6
+                  },
+                  "512 tr":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":458899,
+                     "minPrice_formatted":"$458,900",
+                     "total":2
+                  }
+               },
+               "minPrice":84758,
+               "minPrice_formatted":"$84,758"
+            },
+            "512bb":{
+               "models":{
+                  "512bb":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":259899,
+                     "minPrice_formatted":"$259,900",
+                     "total":10,
+                     "model_variant":[
+                        "i"
+                     ]
+                  }
+               },
+               "minPrice":259899,
+               "minPrice_formatted":"$259,900"
+            },
+            "f355":{
+               "models":{
+                  "f355 spider":{
+                     "body_type":[
+                        "convertible",
+                        "2-door coupe"
+                     ],
+                     "minPrice":78987,
+                     "minPrice_formatted":"$78,987",
+                     "total":6
+                  }
+               },
+               "minPrice":78987,
+               "minPrice_formatted":"$78,987"
+            },
+            "550":{
+               "models":{
+                  "550 barchetta":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":385895,
+                     "minPrice_formatted":"$385,896",
+                     "total":2
+                  }
+               },
+               "minPrice":385895,
+               "minPrice_formatted":"$385,896"
+            },
+            "612 scaglietti":{
+               "models":{
+                  "612 scaglietti":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":107899,
+                     "minPrice_formatted":"$107,900",
+                     "total":6
+                  }
+               },
+               "minPrice":107899,
+               "minPrice_formatted":"$107,900"
+            },
+            "488 pista spider":{
+               "models":{
+                  "488 pista spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":579995,
+                     "minPrice_formatted":"$579,995",
+                     "total":15
+                  }
+               },
+               "minPrice":579995,
+               "minPrice_formatted":"$579,995"
+            },
+            "laferrari":{
+               "models":{
+                  "laferrari":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":2875000,
+                     "minPrice_formatted":"$2,875,000",
+                     "total":6
+                  }
+               },
+               "minPrice":2875000,
+               "minPrice_formatted":"$2,875,000"
+            },
+            "f8":{
+               "models":{
+                  "f8":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "model_variant":[
+                        "tributo"
+                     ],
+                     "minPrice":349000,
+                     "minPrice_formatted":"$349,000",
+                     "total":26
+                  }
+               },
+               "minPrice":349000,
+               "minPrice_formatted":"$349,000"
+            },
+            "348 spider":{
+               "models":{
+                  "348 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":99800,
+                     "minPrice_formatted":"$99,800",
+                     "total":2
+                  }
+               },
+               "minPrice":99800,
+               "minPrice_formatted":"$99,800"
+            },
+            "ff":{
+               "models":{
+                  "ff":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "total":2
+                  }
+               }
+            }
+         }
+      },
+      "approvedMin":"1,000,000",
+      "approvedMax":"999,900",
+      "newMin":"334,268",
+      "newMax":"334,268",
+      "count":6
+   },
+   "vehicles":[
+      {
+         "_id":"oracle_24989945",
+         "main_info":{
+            "images":{
+               "panoramic":{
+                  "interior":0,
+                  "exterior":0
+               }
+            },
+            "approved":1,
+            "make":"ferrari",
+            "reg_year":2014,
+            "model":"laferrari",
+            "seo_url":"\/2014\/ferrari\/laferrari\/2014_ferrari_laferrari-ferrari_westlake-ZFF76ZFA6E0207440",
+            "price_special":"",
+            "carfaxurl":"http:\/\/www.carfax.com\/VehicleHistory\/p\/Report.cfx?partner=MTK_0&vin=ZFF76ZFA6E0207440",
+            "carfaxoneowner":"False",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "translations":{
+            "default":{
+               "year_make_model":"2014 Ferrari LaFerrari",
+               "price_formated":"$2,875,000",
+               "colour_with_trim":"Giallo Triplo Strato, Nero",
+               "odometer":"1,180 mi",
+               "fuel_string":"Electric",
+               "interior":"Nero",
+               "body_type":"2-Door Coupe",
+               "capacity_string":"6,300",
+               "transmission":"Automatic",
+               "colour":"Giallo Triplo Strato",
+               "make_model_model_variant":"Ferrari LaFerrari"
+            },
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "ids":{
+            "vin":"ZFF76ZFA6E0207440",
+            "oracle_id":"24989945",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "images":{
+            "list_430":{
+               "img_1":"\/\/iproxy2.motortrak.com\/2014\/ferrari\/laferrari\/giallo_triplo_strato-Ferrari_Westlake-ZFF76ZFA6E0207440-430-0.jpg",
+               "img_2":"\/\/iproxy2.motortrak.com\/2014\/ferrari\/laferrari\/giallo_triplo_strato-Ferrari_Westlake-ZFF76ZFA6E0207440-430-2.jpg"
+            },
+            "count":44,
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "dealer":{
+            "dealer_url":"http:\/\/losangeles.ferraridealers.com",
+            "phone":"+1 (888) 459-7720",
+            "email":"sales@ferrariwestlake.com",
+            "name":"Ferrari Westlake",
+            "postcode":"91361",
+            "country":"united states",
+            "country_code":"US",
+            "line_address":[
+               "3195 3195 Willow Lane",
+               "Thousand Oaks",
+               "CA"
+            ],
+            "cms_id":"122666",
+            "code":6317,
+            "town":"thousand oaks",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         }
+      },
+      {
+         "_id":"oracle_25007921",
+         "main_info":{
+            "images":{
+               "panoramic":{
+                  "interior":0,
+                  "exterior":0
+               }
+            },
+            "approved":1,
+            "make":"ferrari",
+            "reg_year":2011,
+            "model":"sa aperta",
+            "seo_url":"\/2011\/ferrari\/sa_aperta\/2011_ferrari_sa_aperta-ferrari_of_newport_beach-ZFF72RHA5B0182518",
+            "price_special":"",
+            "carfaxurl":"http:\/\/www.carfax.com\/VehicleHistory\/p\/Report.cfx?partner=MTK_0&vin=ZFF72RHA5B0182518",
+            "carfaxoneowner":"False",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "translations":{
+            "default":{
+               "year_make_model":"2011 Ferrari SA APERTA",
+               "price_formated":"$1,495,000",
+               "colour_with_trim":"Bianco Avus, Nero",
+               "odometer":"859 mi",
+               "fuel_string":"Petrol",
+               "interior":"Nero",
+               "body_type":"Convertible",
+               "capacity_string":"6,000",
+               "transmission":"Automatic",
+               "colour":"Bianco Avus",
+               "make_model_model_variant":"Ferrari SA APERTA"
+            },
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "ids":{
+            "vin":"ZFF72RHA5B0182518",
+            "oracle_id":"25007921",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "images":{
+            "list_430":{
+               "img_1":"\/\/iproxy2.motortrak.com\/2011\/ferrari\/sa_aperta\/bianco_avus-Ferrari_of_Newport_Beach-ZFF72RHA5B0182518-430-0.jpg",
+               "img_2":"\/\/iproxy2.motortrak.com\/2011\/ferrari\/sa_aperta\/bianco_avus-Ferrari_of_Newport_Beach-ZFF72RHA5B0182518-430-2.jpg"
+            },
+            "count":50,
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "dealer":{
+            "dealer_url":"http:\/\/newportbeach.ferraridealers.com",
+            "phone":"+1 949 646 6900",
+            "email":"tim@fmsocal.com",
+            "name":"Ferrari of Newport Beach",
+            "postcode":"92663",
+            "country":"united states",
+            "country_code":"US",
+            "line_address":[
+               "900 900 West Coast Highway",
+               "Newport Beach",
+               "CA"
+            ],
+            "cms_id":"66367",
+            "code":6740,
+            "town":"newport beach",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         }
+      },
+      {
+         "_id":"oracle_24952937",
+         "main_info":{
+            "images":{
+               "panoramic":{
+                  "interior":0,
+                  "exterior":0
+               }
+            },
+            "approved":1,
+            "make":"ferrari",
+            "reg_year":2011,
+            "model":"sa aperta",
+            "seo_url":"\/2011\/ferrari\/sa_aperta\/2011_ferrari_sa_aperta-cauley_ferrari_of_detroit-ZFF72RHA6B0183189",
+            "price_special":"",
+            "carfaxurl":"http:\/\/www.carfax.com\/VehicleHistory\/p\/Report.cfx?partner=MTK_0&vin=ZFF72RHA6B0183189",
+            "carfaxoneowner":"False",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "translations":{
+            "default":{
+               "year_make_model":"2011 Ferrari SA APERTA",
+               "price_formated":"$1,479,900",
+               "colour_with_trim":"Nero Stellato, Sabbia",
+               "odometer":"697 mi",
+               "fuel_string":"Petrol",
+               "interior":"Sabbia",
+               "body_type":"2-Door Coupe",
+               "capacity_string":"5,999",
+               "transmission":"F1",
+               "colour":"Nero Stellato",
+               "make_model_model_variant":"Ferrari SA APERTA"
+            },
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "ids":{
+            "vin":"ZFF72RHA6B0183189",
+            "oracle_id":"24952937",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "images":{
+            "list_430":{
+               "img_1":"\/\/iproxy2.motortrak.com\/2011\/ferrari\/sa_aperta\/nero_stellato-Cauley_Ferrari_of_Detroit-ZFF72RHA6B0183189-430-0.jpg",
+               "img_2":"\/\/iproxy2.motortrak.com\/2011\/ferrari\/sa_aperta\/nero_stellato-Cauley_Ferrari_of_Detroit-ZFF72RHA6B0183189-430-3.jpg"
+            },
+            "count":49,
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "dealer":{
+            "dealer_url":"http:\/\/detroit.ferraridealers.com",
+            "phone":"+1 248 538 9600",
+            "email":"jeffcauley@cauley.net",
+            "name":"Cauley Ferrari of Detroit",
+            "postcode":"48322",
+            "country":"united states",
+            "country_code":"US",
+            "line_address":[
+               "7070 7070 Orchard Lake Road",
+               "West Bloomfield",
+               "MI"
+            ],
+            "cms_id":"66369",
+            "code":6159,
+            "town":"west bloomfield",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         }
+      },
+      {
+         "_id":"oracle_24992540",
+         "main_info":{
+            "images":{
+               "panoramic":{
+                  "interior":0,
+                  "exterior":0
+               }
+            },
+            "approved":1,
+            "make":"ferrari",
+            "reg_year":2011,
+            "model":"sa aperta",
+            "seo_url":"\/2011\/ferrari\/sa_aperta\/2011_ferrari_sa_aperta-miller_motorcars_inc.-ZFF72RHA5B0184995",
+            "price_special":"",
+            "carfaxurl":"http:\/\/www.carfax.com\/VehicleHistory\/p\/Report.cfx?partner=MTK_0&vin=ZFF72RHA5B0184995",
+            "carfaxoneowner":"True",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "translations":{
+            "default":{
+               "year_make_model":"2011 Ferrari SA APERTA",
+               "price_formated":"$1,379,000",
+               "colour_with_trim":"Bianco Italia, Blu Medio",
+               "odometer":"1,752 mi",
+               "fuel_string":"Petrol",
+               "interior":"Blu Medio",
+               "body_type":"Convertible",
+               "capacity_string":"6,000",
+               "transmission":"F1",
+               "colour":"Bianco Italia",
+               "make_model_model_variant":"Ferrari SA APERTA"
+            },
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "ids":{
+            "vin":"ZFF72RHA5B0184995",
+            "oracle_id":"24992540",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "images":{
+            "list_430":{
+               "img_1":"\/\/iproxy2.motortrak.com\/2011\/ferrari\/sa_aperta\/bianco_italia-Miller_Motorcars_Inc.-ZFF72RHA5B0184995-430-0.jpg",
+               "img_2":"\/\/iproxy2.motortrak.com\/2011\/ferrari\/sa_aperta\/bianco_italia-Miller_Motorcars_Inc.-ZFF72RHA5B0184995-430-2.jpg"
+            },
+            "count":43,
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "dealer":{
+            "dealer_url":"http:\/\/greenwich.ferraridealers.com",
+            "phone":"+1 203 629 3890",
+            "email":"Ferrariwebsales@millermotorcars.com,mhorowitz@millermotorcars.com,dmota@millermotorcars.com",
+            "name":"Miller Motorcars Inc.",
+            "postcode":"06830",
+            "country":"united states",
+            "country_code":"US",
+            "line_address":[
+               "342 West Putnam Ave",
+               "Greenwich",
+               "CT"
+            ],
+            "cms_id":"66370",
+            "code":6280,
+            "town":"greenwich",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         }
+      },
+      {
+         "_id":"oracle_25007445",
+         "main_info":{
+            "images":{
+               "panoramic":{
+                  "interior":0,
+                  "exterior":0
+               }
+            },
+            "approved":1,
+            "make":"ferrari",
+            "reg_year":2017,
+            "model":"f12tdf",
+            "seo_url":"\/2017\/ferrari\/f12tdf\/2017_ferrari_f12tdf-ferrari_of_newport_beach-ZFF81BFA3H0228289",
+            "price_special":"",
+            "carfaxurl":"http:\/\/www.carfax.com\/VehicleHistory\/p\/Report.cfx?partner=MTK_0&vin=ZFF81BFA3H0228289",
+            "carfaxoneowner":"True",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "translations":{
+            "default":{
+               "year_make_model":"2017 Ferrari F12tdf",
+               "price_formated":"$1,295,000",
+               "colour_with_trim":"Bianco Avus, Heritage Bordeaux Leather",
+               "odometer":"67 mi",
+               "fuel_string":"Premium ULP",
+               "interior":"Heritage Bordeaux Leather",
+               "body_type":"2-Door Coupe",
+               "capacity_string":"6,300",
+               "transmission":"Automatic",
+               "colour":"Bianco Avus",
+               "make_model_model_variant":"Ferrari F12tdf"
+            },
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "ids":{
+            "vin":"ZFF81BFA3H0228289",
+            "oracle_id":"25007445",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "images":{
+            "list_430":{
+               "img_1":"\/\/iproxy2.motortrak.com\/2017\/ferrari\/f12tdf\/bianco_avus-Ferrari_of_Newport_Beach-ZFF81BFA3H0228289-430-0.jpg",
+               "img_2":"\/\/iproxy2.motortrak.com\/2017\/ferrari\/f12tdf\/bianco_avus-Ferrari_of_Newport_Beach-ZFF81BFA3H0228289-430-2.jpg"
+            },
+            "count":50,
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "dealer":{
+            "dealer_url":"http:\/\/newportbeach.ferraridealers.com",
+            "phone":"+1 949 646 6900",
+            "email":"tim@fmsocal.com",
+            "name":"Ferrari of Newport Beach",
+            "postcode":"92663",
+            "country":"united states",
+            "country_code":"US",
+            "line_address":[
+               "900 900 West Coast Highway",
+               "Newport Beach",
+               "CA"
+            ],
+            "cms_id":"66367",
+            "code":6740,
+            "town":"newport beach",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         }
+      },
+      {
+         "_id":"oracle_24966620",
+         "main_info":{
+            "images":{
+               "panoramic":{
+                  "interior":0,
+                  "exterior":0
+               }
+            },
+            "approved":1,
+            "make":"ferrari",
+            "reg_year":2011,
+            "model":"sa aperta",
+            "seo_url":"\/2011\/ferrari\/sa_aperta\/2011_ferrari_sa_aperta-ferrari_lake_forest-ZFF72RHAXB0185253",
+            "price_special":"",
+            "carfaxurl":"http:\/\/www.carfax.com\/VehicleHistory\/p\/Report.cfx?partner=MTK_0&vin=ZFF72RHAXB0185253",
+            "carfaxoneowner":"False",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "translations":{
+            "default":{
+               "year_make_model":"2011 Ferrari SA APERTA",
+               "price_formated":"$1,195,000",
+               "colour_with_trim":"Rosso Mugello, Beige",
+               "odometer":"2,458 mi",
+               "fuel_string":"Petrol",
+               "interior":"Beige",
+               "body_type":"Convertible",
+               "capacity_string":"5,999",
+               "transmission":"Automatic",
+               "colour":"Rosso Mugello",
+               "make_model_model_variant":"Ferrari SA APERTA"
+            },
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "ids":{
+            "vin":"ZFF72RHAXB0185253",
+            "oracle_id":"24966620",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "images":{
+            "list_430":{
+               "img_1":"\/\/iproxy2.motortrak.com\/2011\/ferrari\/sa_aperta\/rosso_mugello-Ferrari_Lake_Forest-ZFF72RHAXB0185253-430-0.jpg",
+               "img_2":"\/\/iproxy2.motortrak.com\/2011\/ferrari\/sa_aperta\/rosso_mugello-Ferrari_Lake_Forest-ZFF72RHAXB0185253-430-3.jpg"
+            },
+            "count":45,
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         },
+         "dealer":{
+            "dealer_url":"http:\/\/chicago-lakeforest.ferraridealers.com",
+            "phone":"+1 847 295 6560",
+            "email":"ferrari@lfsc.com",
+            "name":"Ferrari Lake Forest",
+            "postcode":"60044",
+            "country":"united states",
+            "country_code":"US",
+            "line_address":[
+               "990 North Shore Drive",
+               "Lake Bluff",
+               "IL"
+            ],
+            "cms_id":"66450",
+            "code":6230,
+            "town":"lake bluff",
+            "main_info":{
+               "body_style":false
+            },
+            "dealer":{
+               "dealer_code":""
+            }
+         }
+      }
+   ],
+   "unfiltered":{
+      "total":484,
+      "minPrice":78987,
+      "maxPrice":2875000,
+      "minYear":1972,
+      "maxYear":2021,
+      "minModelYear":2020,
+      "maxModelYear":2020,
+      "minOdo":0,
+      "maxOdo":41607,
+      "minCC":2855,
+      "maxCC":6500,
+      "make":[
+         "ferrari"
+      ],
+      "class":[
+         "512bb",
+         "488 challenge",
+         "458",
+         "488 pista spider",
+         "f355",
+         "348 spider",
+         "575 superamerica",
+         "portofino",
+         "550",
+         "ff",
+         "gtc4lusso t",
+         "458 speciale a",
+         "california",
+         "812 superfast",
+         "599",
+         "special",
+         "f430",
+         "488 pista",
+         "612 scaglietti",
+         "f12tdf",
+         "laferrari",
+         "488 spider",
+         "f8",
+         "488 gtb",
+         "328 gts",
+         "f12berlinetta",
+         "classic",
+         "360",
+         "458 challenge",
+         "360 challenge",
+         "gtc4lusso"
+      ],
+      "model":[
+         "812 superfast",
+         "california",
+         "612 scaglietti",
+         "488 pista",
+         "f12tdf",
+         "laferrari",
+         "360 modena",
+         "575m maranello",
+         "488 spider",
+         "scuderia spider 16m",
+         "458 speciale",
+         "328 gts",
+         "488 gtb",
+         "458 challenge",
+         "f8",
+         "f12berlinetta",
+         "classic",
+         "599 gto",
+         "f355 spider",
+         "california t",
+         "512 tr",
+         "gtc4lusso",
+         "360 challenge",
+         "488 challenge",
+         "599 gtb fiorano",
+         "288 gto",
+         "512bb",
+         "550 maranello",
+         "488 pista spider",
+         "348 spider",
+         "portofino",
+         "575 superamerica",
+         "f430 spider",
+         "f430 coupe",
+         "550 barchetta",
+         "enzo",
+         "458 italia",
+         "sa aperta",
+         "430 scuderia",
+         "360 spider",
+         "458 spider",
+         "ff",
+         "testarossa",
+         "f355 berlinetta",
+         "458 speciale a",
+         "gtc4lusso t"
+      ],
+      "model_variant":[
+         "he",
+         "evo",
+         "perta",
+         "spider 16m",
+         "308",
+         "stradale",
+         "tailor made",
+         "i",
+         "tributo",
+         "70th anniversary"
+      ],
+      "fuel":[
+         "premium ulp",
+         "petrol",
+         "electric"
+      ],
+      "metacolour":[
+         "blue",
+         "red",
+         "green",
+         "yellow",
+         "white",
+         "grey",
+         "silver",
+         "black"
+      ],
+      "transmission":[
+         "automatic",
+         "f1",
+         "dct",
+         "dual-clutch, 7-speed f1",
+         "manual"
+      ],
+      "transmission_type":[
+         "f1",
+         "automatic",
+         "manual"
+      ],
+      "bodystyle":[
+         "2-door coupe",
+         "estate",
+         "convertible",
+         "5-door hatchback"
+      ],
+      "body_type":[
+         "2-door coupe",
+         "estate",
+         "5-door hatchback",
+         "convertible"
+      ],
+      "drivetrain":[
+         
+      ],
+      "approved":412,
+      "new":1,
+      "used":483,
+      "demo":0,
+      "town":[
+         "west bloomfield",
+         "las vegas",
+         "bryn mawr",
+         "roswell",
+         "newport beach",
+         "phoenix",
+         "dublin",
+         "spring valley",
+         "seattle",
+         "plano",
+         "plainview",
+         "wilsonville",
+         "fort lauderdale",
+         "orlando",
+         "hinsdale",
+         "redwood city",
+         "miami",
+         "palm harbor",
+         "lake bluff",
+         "greenwich",
+         "austin",
+         "greensboro",
+         "highlands ranch",
+         "san diego",
+         "torrance",
+         "houston",
+         "beverly hills",
+         "sterling",
+         "the woodlands",
+         "rancho mirage",
+         "edison",
+         "san antonio",
+         "west palm beach",
+         "salt lake city",
+         "mill valley",
+         "thousand oaks"
+      ],
+      "currency":[
+         "USD"
+      ],
+      "metabody_type":[
+         "estate",
+         "convertible",
+         "hatchback",
+         "coupe"
+      ],
+      "van":0,
+      "trim_material":[
+         
+      ],
+      "trim_shade":[
+         
+      ],
+      "model_type":[
+         "v12",
+         "v8"
+      ],
+      "metatrim_material":[
+         
+      ],
+      "sub_brand":[
+         
+      ],
+      "features":[
+         "JBL Professional Premium Hi-Fi Sound System",
+         "Seat Memory",
+         "Passenger Air Bag",
+         "Carbon Fib.Steering Wheel+LEDs",
+         "Titanium Exhaust",
+         "CD player",
+         "20 Forged Diamond Rims",
+         "High Power HIFI System",
+         "Modena Yellow Brake Calipers",
+         "Brake assist",
+         "Radio: Integrated Audio System",
+         "Brake Calipers in Scuderia Red Color",
+         "Manuals",
+         "Aluminum Brake Calipers",
+         "Jack",
+         "Radio: AM\/FM Audio System",
+         "Electrochromic Rearwiew Mirror",
+         "Color Upon Request - Horse Stitched on Headrest",
+         "Front Grille w\/Chromed Edges",
+         "1986 Ferrari Testarossa Monospecchio aka Flying Mirror",
+         "Build Date: Dec\/1985",
+         "Garage door transmitter",
+         "High Emotion Low Emission",
+         "Power Mirror(s)",
+         "Requires Subscription",
+         "ABS brakes",
+         "Bumpers: body-color",
+         "Coloured Standard Stitching",
+         "Color Upon Request for Special Contrasting Stitching",
+         "Carbon Fiber Engine Cover",
+         "Radio: AM\/FM harman\/kardon Audio System",
+         "Leather & Alcantara Two-Color Interior",
+         "Suspension Lifter",
+         "3\/4 Layers Paint",
+         "Parking Sensor",
+         "Variably intermittent wipers",
+         "Inn\/Out Elettr Mirror+Homelink",
+         "Front dual zone A\/C",
+         "Low tire pressure warning",
+         "Cargo Shade",
+         "Front & Rear Parking Sensors",
+         "Tires - Rear Performance",
+         "Rear window defroster",
+         "Security system",
+         "Carb. Fib. Steering Wheel+LEDs",
+         "CLDT with Special Leather",
+         "Passenger Air Bag Sensor",
+         "Platinum Award Winner at the Ferrari Club of America Fall Festival (Trophy Included)",
+         "Yellow Rev. Counter",
+         "Emph with Special Thread",
+         "Tow-tone Stripe",
+         "NERO",
+         "Turbocharged",
+         "Power driver seat",
+         "CD Changer",
+         "Trip computer",
+         "Color Upon Request - Colored Stitching",
+         "Alcantara Seats Inner Trim",
+         "Heated Front Seat(s)",
+         "Brake Calipers in Aluminum Grey Color",
+         "Power passenger seat",
+         "19 Silver Alloy Wheels",
+         "Power Windows",
+         "Front Grill with Chromed Edges",
+         "Bucket Seats",
+         "Smart Device Integration",
+         "Tela Colore Nero Soft Top Colour",
+         "Carbon Fibre Exterior Package",
+         "Cell Phone Hookup",
+         "Carbon Fiber Upper Tunnel Trim",
+         "Convertible roof lining",
+         "Power windows",
+         "Traction control",
+         "Leather steering wheel",
+         "GRIGIO SILVERSTONE METALLIC",
+         "Driver's Seat Adjustment Device",
+         "Sport Bucket Seats",
+         "Exterior Sport Grilles",
+         "Passenger Illuminated Visor Mirror",
+         "Front and Rear Parking Sensors",
+         "Ferrari Telemetry",
+         "Brake Calipers in Yellow Color",
+         "Leather Pouch and Window Sticker.",
+         "Rosso Corsa Brake Calipers",
+         "Front and Rear Parking Cameras",
+         "Smartphone Connection",
+         "Driver Seat Adjustment Device",
+         "MP3 Player",
+         "Dual View Front Parking Camera",
+         "Heated front seats",
+         "Daytona Style Seat",
+         "Heated Mirrors",
+         "Infotainment System w\/Navigation & Bluetooth",
+         "Panic alarm",
+         "Air Suspension",
+         "Electric Steering Column",
+         "Coloured Inner Details (Rosso Ferrari)",
+         "Rear anti-roll bar",
+         "Advanced Front Lighting System",
+         "Rear seat center armrest",
+         "Temporary Spare Tire",
+         "Upgrade Hifi system",
+         "Yellow Tachometer Counter",
+         "Handly Fire Extinguisher",
+         "Carb. Fib. Steering Wheel + LEDs",
+         "Racing Seat Lifter",
+         "Wheels: 20 x 9.5 Fr & 20 x 11.5 Rr Dark Gray",
+         "Apple CarPlay",
+         "Carbon Fibre Side Air Splitter",
+         "Cloth Seats",
+         "Black Brake Calipers",
+         "Aluminium driver & Pass. Footrest",
+         "'scuderia Ferrari' Shields",
+         "Afs System",
+         "Front reading lights",
+         "Stile 3D Racing Seat",
+         "7 Speakers",
+         "Adaptive suspension",
+         "Homelink",
+         "Daytona Style Rear Seat",
+         "Adjustable Steering Wheel",
+         "Advanced Front Driving Camera",
+         "Aluminium Driver&Pass. Footrest",
+         "Power Steering",
+         "Leather Seats",
+         "BEIGE TRADIZIONE  LEATHER SEAT TRIM",
+         "One owner since New.",
+         "Dual front impact airbags",
+         "Sports Sill Cover",
+         "Daytime Running Lights",
+         "AM\/FM radio",
+         "Scuderia Ferrari Shields on Fenders",
+         "Leather Upholstery For Seat Backrest",
+         "Auxiliary Audio Input",
+         "Foldable Rear Seats Backrest",
+         "Satellite Radio",
+         "Matt Grigio Corsa STD Wheels",
+         "Garage Door Openers",
+         "Heat Insulating Windscreen",
+         "All Wheel Drive",
+         "Illuminated entry",
+         "Power Liftgate",
+         "Power convertible roof",
+         "Cloured Mats with Logo",
+         "Tyre Pressure Measurement",
+         "Carbon exterior elements",
+         "White Tachometer Counter",
+         "Bluetooth",
+         "CALR RED BRAKE CALIPERSCEXF\tCARBON FIBER HEADLIGHT BUCKETCIDL\tCARBON FIBRE DRIVER ZONE+LEDSCILR\tCARBON FIBRE CENTRAL BRIDGECIPZ\tCARBON FIBRE DOOR PANELSCISK\tEXTERIOR SILL KICK IN CARBONDATR\tCARBON FIBRE DASHBOARD INSERTSDAY1\tDAYTONA STYLE SEATEXT1\tHANDLY FIRE EXTINGUISHERINST\tINSTRUMENT PANELIPOD\tIPOD CONNECTIONLUG9\tBOOT LUGGAGE SETNDSP\tINTERNAL USEPIP2\tINNER LEATHER INSERTSRSFE\tFULL ELECTRIC SEATSSOFT\tSOFT TOP COLOURSTC2\tCOLOURED SPECIAL STITCHINGSTP1\tDAYTONA SEAT LEATHER STRIPESSUI1\tSUIT CARRIER",
+         "1 Owner Vehicle",
+         "Wheels: Front 20 x 9\/Rear 20 x 11 Gold Forged Alloy",
+         "Leather Central Tunnel",
+         "'Scuderia Ferrari' Shields",
+         "Wheels: 20 x 10 Fr & 20 x 11.5 Rr Forged Diamond",
+         "Sport steering wheel",
+         "4-Wheel Disc Brakes",
+         "Alcantara Upholstery for Upper Zone",
+         "Compass",
+         "ROSSO CORSA",
+         "Rear Spoiler",
+         "Headlight cleaning",
+         "Dual front side impact airbags",
+         "Alcantara Wheel Arches",
+         "ABS",
+         "Stability Control",
+         "20\" Forged Diamond Rims",
+         "Radio data system",
+         "20 Diamond-Finish Sport Alloy Wheels",
+         "Engine Immobilizer",
+         "BEIGE TRADIZIONE  LEATHER & ALCANTARA INTERIOR TRIM",
+         "Central Tunnel in Leather",
+         "Alcantara Upholstery",
+         "6 Speakers",
+         "LED Headlights",
+         "Panoramic roof",
+         "Comes with all of the Original Tool Kit",
+         "Front Reading Lamps",
+         "Carbon Fibre Instrument Cluster",
+         "Alcantara Seat Inner Trim",
+         "AM\/FM Stereo w\/CD Player",
+         "Convertible roof wind blocker",
+         "Red Brake Calipers",
+         "Pass-Through Rear Seat",
+         "Privacy Glass",
+         "High Power Hifi System",
+         "Convertible Hardtop",
+         "Estrattore Base",
+         "Cruise Control",
+         "Passenger Vanity Mirror",
+         "Sport Exhaust Pipes",
+         "Remote keyless entry",
+         "Additional CD Reader",
+         "Electrochromic Rearview Mirror",
+         "Wheels: 20 x 9 Fr & 20 x 11 Rr Alloy",
+         "Integrated roll-over protection",
+         "Front Racing Seats",
+         "Aluminium Driver&pass.Footrest",
+         "Adjustable Pedals",
+         "Intermittent Wipers",
+         "Aluminum Wheels",
+         "RadioNav system+Bluetooth",
+         "Carbon interior elements",
+         "Scuderia Ferrari Shields On Fenders",
+         "Auto-dimming Rear-View mirror",
+         "Front Side Air Bag",
+         "Alcantara\/3D Fabric w\/Carbon Fiber Seatbacks",
+         "Panoramic Roof",
+         "Carbon Fibre Driver Zone+LEDs",
+         "Black Panor. Roof End Section",
+         "Driver door bin",
+         "Two Tone Body Painting",
+         "Spoiler",
+         "Rear Parking Aid",
+         "Advanced Front Lighting System (AFS)",
+         "Active Suspension",
+         "4 Speakers",
+         "Parking Camera",
+         "AM\/FM radio: SiriusXM",
+         "AM\/FM Radio",
+         "Alcantara Seat Trim",
+         "Tilt steering wheel",
+         "Hi-Fi Premium Sound System",
+         "Wheels: 20 x 10 Fr & 20 x 11.5 Rr Dark Painted",
+         "Carbon Rear Moulding",
+         "BIANCO AVUS",
+         "Wheels: 8.5J x 20 Fr & 10.5J x 20 Rr Forged Diamond",
+         "Power Folding Mirrors",
+         "Carbon Fiber\/Leather Steering Wheel w\/LED RPM Indicator",
+         "Floor Mats",
+         "Surround View",
+         "AFS System",
+         "Racing Carbon Seats",
+         "Rear Defrost",
+         "Coloured Mats with Logo",
+         "Carbon Fibre Front Flaps",
+         "Entertainment System",
+         "Carbon Fibre Dashboard Inserts",
+         "Carbon Fibre Racing Seats",
+         "Special Features",
+         "Rear Reading Lamps",
+         "Carbon Fibre Upper Tunnel Trim",
+         "CD Player",
+         "MP3 decoder",
+         "Sports exhaust",
+         "Premium Sound System",
+         "Color Upon Request for Leather Rear Shelf",
+         "Mirror Memory",
+         "Leather Seat Trim",
+         "Inner & Outer Electrochromatic Rearview Mirror",
+         "Front anti-roll bar",
+         "Carbon Fibre Inner Sill Trim",
+         "Telescoping steering wheel",
+         "Horse Stitched on Headrest",
+         "Full Electric Seats",
+         "Color Upon Request - Leather Lower Dashboard",
+         "Passenger vanity mirror",
+         "Alcantara Trimmed Inner Wheel Arches",
+         "Matt Painted Inn. Carbon Fibre",
+         "GRIGIO ALLOY METALLIC",
+         "Remote Trunk Release",
+         "Carbon Fibre Underdoor Cover",
+         "Wheels: Front 20 x 9.5\/Rear 20 x 11.5 Alloy",
+         "Front Radar with Acc",
+         "Multi-Zone A\/C",
+         "Bluetooth Connection",
+         "Navigation System",
+         "Universal Garage Door Opener",
+         "Electronic Stability Control",
+         "Convertible Soft Top",
+         "Magneride Dual Mode Suspension",
+         "High intensity discharge headlights: Bi-Xenon",
+         "Leather Upholstery Seat Backrest",
+         "20 Forged Painted Rims",
+         "Personalization Pack",
+         "Keyless Start",
+         "Italian Flag",
+         "Fully automatic headlights",
+         "Tyres Pressure Management",
+         "Carbon Fiber Front Spoiler & Aerodynamic Fins",
+         "Security System",
+         "Auto-Dimming Rearview Mirror",
+         "Alluminum Brake Calipers",
+         "Climate Control",
+         "Carbon Fibre Cup Holder",
+         "Handling Speciale Package",
+         "Foldable Rear Seat Backs",
+         "Memory seat",
+         "Carbon Racing Seats",
+         "ExtraCampionario 3\/4 Layers Paint",
+         "Rear Diffuser in Carbon Fibre",
+         "Color Upon Request - Seat Belts",
+         "Automatic Headlights",
+         "Wheels: 20 Forged Matt Grigio Corsa",
+         "Racing Livery W.Italian Flag",
+         "Ceramic disc brakes",
+         "Headlights-Auto-Leveling",
+         "Back-Up Camera",
+         "AM\/FM Stereo",
+         "Color Upon Request - Leather Upper Part",
+         "Alcantara Upholstery for Headliner",
+         "Black Ceramic Exhaust Pipes",
+         "Armrest on Tunnel in Leather",
+         "Color Upon Request - Leather Insert",
+         "20\" Forged Painted Rims",
+         "Weather band radio",
+         "Adaptive Front Lights + Sbl",
+         "Emergency Trunk Release",
+         "AM\/FM CD\/MP3\/DVD\/USB\/HDD w\/Navigation",
+         "Scuderia Ferrari Shields",
+         "Leather Steering Wheel",
+         "Power Bucket Seats",
+         "Racing Stripe",
+         "Carbon Fiber Racing Style Seats",
+         "Rosso Scuderia Brake Calipers",
+         "Satellite Navigation System",
+         "8 Speakers",
+         "20 Forged Dark Painted Rims",
+         "Interior 3D Fabric Colour-Tessuto T3D1 Grigio",
+         "Red Rev. Counter",
+         "Sport Exhaust System",
+         "Carbon Fiber Rear Air Ducts",
+         "Color Upon Request - Leather Central Tunnel",
+         "Inner Color Door Panel Trim",
+         "Coloured Safety Belts",
+         "Carbon Fibre Central Bridge",
+         "Yellow Brake Calipers",
+         "Auto-dimming door mirrors",
+         "Apple Carplay",
+         "Carbon Fiber Side Air Splitter",
+         "Carbon Fibre Rear Moulding",
+         "Front Airvents in Carbon Fibre",
+         "Tow-Tone Stripe",
+         "Cassette",
+         "Power Driver Seat",
+         "Overhead console",
+         "Rear Wheel Drive",
+         "Outside temperature display",
+         "Driver Air Bag",
+         "Voltmeter",
+         "Power Door Locks",
+         "Tachometer",
+         "Inner Electrochromatic Rearview Mirror & Homelink",
+         "Trip Computer",
+         "Power Passenger Seat",
+         "Diamond Pattern Style Seats",
+         "Rain Sensing Wipers",
+         "Fog Lamps",
+         "Chrome Front Grille",
+         "Ceramic disc brakes: front and rear",
+         "Carbon Fiber Trim For Door Panels",
+         "Headliner Alcantara Nera",
+         "Interior & Exterior Electrochromatic Mirrors w\/HomeLink System",
+         "Power steering",
+         "harman\/kardon Speakers",
+         "Rear fog lights",
+         "Nero Lucido Brake Calipers",
+         "Carb.Fib.Steering Wheel+LEDs",
+         "Front Bucket Seats",
+         "Speed-sensing steering",
+         "Front Suspension Lifter",
+         "Colour Upon Request for Piping",
+         "Rain sensing wipers",
+         "Passenger Display",
+         "Speed-Sensitive Wipers",
+         "Four wheel independent suspension",
+         "A\/C",
+         "RadiNavi System+Bluetooth",
+         "Coloured Special Stitching",
+         "Wheels: 8.5J x 20 Fr & 10.5J x 20 Rr Forged Nurburgring Silver",
+         "4-Way Power Driver\/Passenger Bucket Seats",
+         "Daytona Style Seat Trim",
+         "Delay-off headlights",
+         "Back Radar",
+         "Passenger Adjustable Lumbar",
+         "Power door mirrors",
+         "Wheels: 20 x 9 Fr & 20 x 11 Rr Forged Dark Painted",
+         "DVD-Audio",
+         "Locking\/Limited Slip Differential",
+         "High-Intensity Discharge Headlights",
+         "Interior 3D Fabric Colour",
+         "Coloured Inner Details",
+         "Interior Leather Color for Upper Door Panel",
+         "Passenger cancellable airbag",
+         "Ferrari Historical Colors",
+         "Yellow Rev Counter",
+         "Racing livery",
+         "Driver Adjustable Lumbar",
+         "Premium Synthetic Seats",
+         "Steering Wheel Audio Controls",
+         "Wheels: 20 x 9 Fr & 20 x 11 Rr Painted Forged",
+         "Coloured Steering Wheel",
+         "Alcantara Central Tunnel",
+         "Front Center Armrest",
+         "Color Upon Request - Leather Rear Wall Parcel Shelf",
+         "Color Upon Request - Standard Stitching",
+         "Exterior Parking Camera Rear",
+         "Convertible HardTop",
+         "Passenger Air Bag On\/Off Switch",
+         "Traction Control",
+         "Keyless Entry",
+         "Split folding rear seat",
+         "Carbon Underdoor Cover",
+         "Radio: Harmon\/kardon AM\/FM\/MP3\/USB\/6-Disc CD",
+         "Adaptive Front Lights+SBL",
+         "Rollover Protection Bars",
+         "Color Upon Request for Alcantara Upholstery Headliner",
+         "Power Tilt\/Scope Steering Wheel",
+         "Power Outlet",
+         "Tyres Pressure Measurement",
+         "Color Upon Request for Standard Stitching",
+         "Hard Disk Drive Media Storage",
+         "Full electric seats",
+         "Carbon Fibre Wheels Cup",
+         "Rear Bucket Seats",
+         "Passenger door bin",
+         "Glass rear window",
+         "Radio: AM\/FM\/MP3\/USB\/6-Disc CD w\/30GB Hard Disc Drive",
+         "Front Suspension Lift System",
+         "Brake Assist",
+         "Embroidered Prancing Horse on Headrest",
+         "Alcantara Dashboard",
+         "Parking sensors",
+         "ExtraCampionario Special Stitching",
+         "Generic Sun\/Moonroof",
+         "Alcantara Rear Wall",
+         "Color Upon Request for Alcantara Trimmed Dashboard",
+         "Colored Extra Carpets w\/Logo",
+         "Interior Leather Color for Rear Upper Part",
+         "Automatic temperature control",
+         "White Rev Counter",
+         "Heated door mirrors",
+         "Variable Speed Intermittent Wipers",
+         "Alluminum Rev. Counter",
+         "RadioNavi System + Bluetooth",
+         "Reverse Camera System",
+         "HID headlights",
+         "Steering wheel mounted audio controls",
+         "Carbon Fiber Steering Wheel w\/LED",
+         "Magnetorheological Shocks",
+         "ExtraCampionario Interior colors",
+         "Remote CD player",
+         "Tire Pressure Monitor",
+         "Rear reading lights",
+         "ExtraCampionario External Colors",
+         "Extracampionario Coloured Inner Details",
+         "Tires - Front Performance",
+         "White Tachometer",
+         "ROSSO FERRARI  LEATHER SEAT TRIM",
+         "Speed control",
+         "Us Functional Equipment",
+         "Air Conditioning"
+      ],
+      "equipment_meta":[
+         "Full electric seats",
+         "Sports exhaust",
+         "Racing livery",
+         "Upgrade Hifi system",
+         "Panoramic roof",
+         "Carbon exterior elements",
+         "Carbon interior elements",
+         "Parking sensors"
+      ],
+      "make_dynamic":[
+         "ferrari"
+      ],
+      "sub_brand_dynamic":[
+         
+      ],
+      "class_dynamic":[
+         "gtc4lusso",
+         "348 spider",
+         "360 challenge",
+         "360",
+         "458 challenge",
+         "f12berlinetta",
+         "classic",
+         "488 gtb",
+         "328 gts",
+         "488 spider",
+         "f8",
+         "f12tdf",
+         "laferrari",
+         "612 scaglietti",
+         "special",
+         "f430",
+         "812 superfast",
+         "488 pista",
+         "california",
+         "458 speciale a",
+         "599",
+         "gtc4lusso t",
+         "ff",
+         "575 superamerica",
+         "portofino",
+         "550",
+         "488 pista spider",
+         "f355",
+         "458",
+         "488 challenge",
+         "512bb"
+      ],
+      "model_dynamic":[
+         "gtc4lusso",
+         "550 maranello",
+         "288 gto",
+         "360 challenge",
+         "f355 spider",
+         "california t",
+         "458 challenge",
+         "f12berlinetta",
+         "classic",
+         "458 speciale",
+         "488 gtb",
+         "328 gts",
+         "599 gto",
+         "575m maranello",
+         "scuderia spider 16m",
+         "488 spider",
+         "f12tdf",
+         "laferrari",
+         "360 modena",
+         "f8",
+         "512 tr",
+         "612 scaglietti",
+         "488 pista",
+         "812 superfast",
+         "california",
+         "458 speciale a",
+         "gtc4lusso t",
+         "ff",
+         "f355 berlinetta",
+         "testarossa",
+         "458 spider",
+         "360 spider",
+         "458 italia",
+         "enzo",
+         "sa aperta",
+         "430 scuderia",
+         "f430 coupe",
+         "f430 spider",
+         "550 barchetta",
+         "575 superamerica",
+         "portofino",
+         "488 pista spider",
+         "348 spider",
+         "599 gtb fiorano",
+         "488 challenge",
+         "512bb"
+      ],
+      "body_type_dynamic":[
+         "convertible",
+         "2-door coupe",
+         "estate",
+         "5-door hatchback"
+      ],
+      "minPrice_dynamic":56608,
+      "maxPrice_dynamic":2060435,
+      "minOdo_dynamic":0,
+      "maxOdo_dynamic":41607,
+      "metacolour_dynamic":[
+         "blue",
+         "red",
+         "green",
+         "white",
+         "yellow",
+         "grey",
+         "silver",
+         "black"
+      ],
+      "fuel_dynamic":[
+         "electric",
+         "petrol",
+         "premium ulp"
+      ],
+      "transmission_dynamic":[
+         "automatic",
+         "manual",
+         "f1",
+         "dct",
+         "dual-clutch, 7-speed f1"
+      ],
+      "minYear_dynamic":1972,
+      "maxYear_dynamic":2021,
+      "model_variant_dynamic":[
+         "spider 16m",
+         "tributo",
+         "perta",
+         "evo",
+         "he",
+         "70th anniversary",
+         "i",
+         "tailor made",
+         "stradale",
+         "308"
+      ],
+      "equipment_meta_dynamic":[
+         "Carbon exterior elements",
+         "Carbon interior elements",
+         "Parking sensors",
+         "Racing livery",
+         "Full electric seats",
+         "Upgrade Hifi system",
+         "Sports exhaust",
+         "Panoramic roof"
+      ],
+      "tree":{
+         "classes":{
+            "458":{
+               "models":{
+                  "458 italia":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":148894,
+                     "minPrice_formatted":"$148,895",
+                     "total":52
+                  },
+                  "458 speciale":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":339990,
+                     "minPrice_formatted":"$339,990",
+                     "total":10
+                  },
+                  "458 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":199900,
+                     "minPrice_formatted":"$199,900",
+                     "total":12
+                  }
+               },
+               "minPrice":148894,
+               "minPrice_formatted":"$148,895"
+            },
+            "812 superfast":{
+               "models":{
+                  "812 superfast":{
+                     "body_type":[
+                        "2-door coupe",
+                        "5-door hatchback"
+                     ],
+                     "minPrice":309000,
+                     "minPrice_formatted":"$309,000",
+                     "total":116
+                  }
+               },
+               "minPrice":309000,
+               "minPrice_formatted":"$309,000"
+            },
+            "f12berlinetta":{
+               "models":{
+                  "f12berlinetta":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":214899,
+                     "minPrice_formatted":"$214,900",
+                     "total":36,
+                     "model_variant":[
+                        "70th anniversary"
+                     ]
+                  }
+               },
+               "minPrice":214899,
+               "minPrice_formatted":"$214,900"
+            },
+            "california":{
+               "models":{
+                  "california t":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":144989,
+                     "minPrice_formatted":"$144,989",
+                     "total":38
+                  },
+                  "california":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":99840,
+                     "minPrice_formatted":"$99,841",
+                     "total":56
+                  }
+               },
+               "minPrice":99840,
+               "minPrice_formatted":"$99,841"
+            },
+            "488 spider":{
+               "models":{
+                  "488 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":248000,
+                     "minPrice_formatted":"$248,000",
+                     "total":47
+                  }
+               },
+               "minPrice":248000,
+               "minPrice_formatted":"$248,000"
+            },
+            "488":{
+               "minPrice":199894,
+               "minPrice_formatted":"$199,895",
+               "models":{
+                  "488 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":248000,
+                     "minPrice_formatted":"$248,000",
+                     "total":47
+                  },
+                  "488 gtb":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":199894,
+                     "minPrice_formatted":"$199,895",
+                     "total":25
+                  },
+                  "488 challenge":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":204990,
+                     "minPrice_formatted":"$204,990",
+                     "total":4,
+                     "model_variant":[
+                        "evo"
+                     ]
+                  },
+                  "488 pista":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":419900,
+                     "minPrice_formatted":"$419,900",
+                     "total":30
+                  },
+                  "488 pista spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":579995,
+                     "minPrice_formatted":"$579,995",
+                     "total":15
+                  }
+               }
+            },
+            "575 superamerica":{
+               "models":{
+                  "575 superamerica":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":224894,
+                     "minPrice_formatted":"$224,895",
+                     "total":10
+                  }
+               },
+               "minPrice":224894,
+               "minPrice_formatted":"$224,895"
+            },
+            "488 gtb":{
+               "models":{
+                  "488 gtb":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":199894,
+                     "minPrice_formatted":"$199,895",
+                     "total":25
+                  }
+               },
+               "minPrice":199894,
+               "minPrice_formatted":"$199,895"
+            },
+            "360":{
+               "models":{
+                  "360 modena":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":82795,
+                     "minPrice_formatted":"$82,795",
+                     "total":10
+                  },
+                  "360 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":89988,
+                     "minPrice_formatted":"$89,988",
+                     "total":2
+                  }
+               },
+               "minPrice":82795,
+               "minPrice_formatted":"$82,795"
+            },
+            "gtc4lusso":{
+               "models":{
+                  "gtc4lusso":{
+                     "body_type":[
+                        "estate",
+                        "5-door hatchback",
+                        "2-door coupe"
+                     ],
+                     "minPrice":184988,
+                     "minPrice_formatted":"$184,988",
+                     "total":82
+                  }
+               },
+               "minPrice":184988,
+               "minPrice_formatted":"$184,988"
+            },
+            "360 challenge":{
+               "models":{
+                  "360 challenge":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "model_variant":[
+                        "stradale"
+                     ],
+                     "minPrice":209900,
+                     "minPrice_formatted":"$209,900",
+                     "total":4
+                  }
+               },
+               "minPrice":209900,
+               "minPrice_formatted":"$209,900"
+            },
+            "portofino":{
+               "models":{
+                  "portofino":{
+                     "body_type":[
+                        "convertible",
+                        "2-door coupe"
+                     ],
+                     "minPrice":207899,
+                     "minPrice_formatted":"$207,900",
+                     "total":86,
+                     "model_variant":[
+                        "tailor made"
+                     ]
+                  }
+               },
+               "minPrice":207899,
+               "minPrice_formatted":"$207,900"
+            },
+            "328 gts":{
+               "models":{
+                  "328 gts":{
+                     "body_type":[
+                        "convertible",
+                        "2-door coupe"
+                     ],
+                     "minPrice":124899,
+                     "minPrice_formatted":"$124,899",
+                     "total":4
+                  }
+               },
+               "minPrice":124899,
+               "minPrice_formatted":"$124,899"
+            },
+            "f430":{
+               "models":{
+                  "scuderia spider 16m":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":298000,
+                     "minPrice_formatted":"$298,001",
+                     "total":16
+                  },
+                  "f430 coupe":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":114900,
+                     "minPrice_formatted":"$114,900",
+                     "total":12
+                  },
+                  "f430 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":123995,
+                     "minPrice_formatted":"$123,995",
+                     "total":10
+                  }
+               },
+               "minPrice":114900,
+               "minPrice_formatted":"$114,900"
+            },
+            "488 challenge":{
+               "models":{
+                  "488 challenge":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":204990,
+                     "minPrice_formatted":"$204,990",
+                     "total":4,
+                     "model_variant":[
+                        "evo"
+                     ]
+                  }
+               },
+               "minPrice":204990,
+               "minPrice_formatted":"$204,990"
+            },
+            "458 challenge":{
+               "models":{
+                  "458 challenge":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":119899,
+                     "minPrice_formatted":"$119,900",
+                     "total":8,
+                     "model_variant":[
+                        "evo"
+                     ]
+                  }
+               },
+               "minPrice":119899,
+               "minPrice_formatted":"$119,900"
+            },
+            "gtc4lusso t":{
+               "models":{
+                  "gtc4lusso t":{
+                     "body_type":[
+                        "estate"
+                     ],
+                     "minPrice":199985,
+                     "minPrice_formatted":"$199,985",
+                     "total":10
+                  }
+               },
+               "minPrice":199985,
+               "minPrice_formatted":"$199,985"
+            },
+            "458 speciale a":{
+               "models":{
+                  "458 speciale a":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":689799,
+                     "minPrice_formatted":"$689,800",
+                     "total":8,
+                     "model_variant":[
+                        "perta"
+                     ]
+                  }
+               },
+               "minPrice":689799,
+               "minPrice_formatted":"$689,800"
+            },
+            "599":{
+               "models":{
+                  "sa aperta":{
+                     "body_type":[
+                        "convertible",
+                        "2-door coupe"
+                     ],
+                     "minPrice":1000000,
+                     "minPrice_formatted":"$1,000,000",
+                     "total":12
+                  },
+                  "599 gtb fiorano":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":128895,
+                     "minPrice_formatted":"$128,896",
+                     "total":16
+                  },
+                  "599 gto":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":699899,
+                     "minPrice_formatted":"$699,899",
+                     "total":2
+                  }
+               },
+               "minPrice":128895,
+               "minPrice_formatted":"$128,896"
+            },
+            "488 pista":{
+               "models":{
+                  "488 pista":{
+                     "body_type":[
+                        "2-door coupe",
+                        "convertible"
+                     ],
+                     "minPrice":419900,
+                     "minPrice_formatted":"$419,900",
+                     "total":30
+                  }
+               },
+               "minPrice":419900,
+               "minPrice_formatted":"$419,900"
+            },
+            "f12tdf":{
+               "models":{
+                  "f12tdf":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":849899,
+                     "minPrice_formatted":"$849,899",
+                     "total":14
+                  }
+               },
+               "minPrice":849899,
+               "minPrice_formatted":"$849,899"
+            },
+            "special":{
+               "models":{
+                  "enzo":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "total":2
+                  },
+                  "288 gto":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "total":2
+                  }
+               }
+            },
+            "classic":{
+               "models":{
+                  "575m maranello":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":109899,
+                     "minPrice_formatted":"$109,899",
+                     "total":6
+                  },
+                  "430 scuderia":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "model_variant":[
+                        "spider 16m"
+                     ],
+                     "minPrice":319900,
+                     "minPrice_formatted":"$319,900",
+                     "total":4
+                  },
+                  "f355 spider":{
+                     "body_type":[
+                        "convertible",
+                        "2-door coupe"
+                     ],
+                     "minPrice":78987,
+                     "minPrice_formatted":"$78,987",
+                     "total":4
+                  },
+                  "testarossa":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":119984,
+                     "minPrice_formatted":"$119,985",
+                     "total":12
+                  },
+                  "classic":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "model_variant":[
+                        "he",
+                        "308"
+                     ],
+                     "minPrice":89989,
+                     "minPrice_formatted":"$89,989",
+                     "total":4
+                  },
+                  "f355 berlinetta":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":84758,
+                     "minPrice_formatted":"$84,758",
+                     "total":2
+                  },
+                  "550 maranello":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":139000,
+                     "minPrice_formatted":"$139,001",
+                     "total":6
+                  },
+                  "512 tr":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":458899,
+                     "minPrice_formatted":"$458,900",
+                     "total":2
+                  }
+               },
+               "minPrice":84758,
+               "minPrice_formatted":"$84,758"
+            },
+            "512bb":{
+               "models":{
+                  "512bb":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":259899,
+                     "minPrice_formatted":"$259,900",
+                     "total":10,
+                     "model_variant":[
+                        "i"
+                     ]
+                  }
+               },
+               "minPrice":259899,
+               "minPrice_formatted":"$259,900"
+            },
+            "f355":{
+               "models":{
+                  "f355 spider":{
+                     "body_type":[
+                        "convertible",
+                        "2-door coupe"
+                     ],
+                     "minPrice":78987,
+                     "minPrice_formatted":"$78,987",
+                     "total":6
+                  }
+               },
+               "minPrice":78987,
+               "minPrice_formatted":"$78,987"
+            },
+            "550":{
+               "models":{
+                  "550 barchetta":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":385895,
+                     "minPrice_formatted":"$385,896",
+                     "total":2
+                  }
+               },
+               "minPrice":385895,
+               "minPrice_formatted":"$385,896"
+            },
+            "612 scaglietti":{
+               "models":{
+                  "612 scaglietti":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":107899,
+                     "minPrice_formatted":"$107,900",
+                     "total":6
+                  }
+               },
+               "minPrice":107899,
+               "minPrice_formatted":"$107,900"
+            },
+            "488 pista spider":{
+               "models":{
+                  "488 pista spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":579995,
+                     "minPrice_formatted":"$579,995",
+                     "total":15
+                  }
+               },
+               "minPrice":579995,
+               "minPrice_formatted":"$579,995"
+            },
+            "laferrari":{
+               "models":{
+                  "laferrari":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "minPrice":2875000,
+                     "minPrice_formatted":"$2,875,000",
+                     "total":6
+                  }
+               },
+               "minPrice":2875000,
+               "minPrice_formatted":"$2,875,000"
+            },
+            "f8":{
+               "models":{
+                  "f8":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "model_variant":[
+                        "tributo"
+                     ],
+                     "minPrice":349000,
+                     "minPrice_formatted":"$349,000",
+                     "total":26
+                  }
+               },
+               "minPrice":349000,
+               "minPrice_formatted":"$349,000"
+            },
+            "348 spider":{
+               "models":{
+                  "348 spider":{
+                     "body_type":[
+                        "convertible"
+                     ],
+                     "minPrice":99800,
+                     "minPrice_formatted":"$99,800",
+                     "total":2
+                  }
+               },
+               "minPrice":99800,
+               "minPrice_formatted":"$99,800"
+            },
+            "ff":{
+               "models":{
+                  "ff":{
+                     "body_type":[
+                        "2-door coupe"
+                     ],
+                     "total":2
+                  }
+               }
+            }
+         }
+      },
+      "approvedMin":"1,000,000",
+      "approvedMax":"999,900",
+      "newMin":"334,268",
+      "newMax":"334,268"
+   }
+}
