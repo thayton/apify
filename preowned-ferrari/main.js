@@ -15,7 +15,7 @@ log.setOptions({
 
 const NUM_ITEMS = 100;
 
-const addCarInfo = (item) => {
+const addCarInfo = async (item) => {
     const dealer = item['dealer'];        
     const car = {
         dealer: {
@@ -37,7 +37,7 @@ const addCarInfo = (item) => {
     }
 
     log.debug(`Adding car with VIN ${car.vin}`);
-    return Apify.pushData(car);
+    await Apify.pushData(car);
 };
 
 Apify.main(async () => {
@@ -180,10 +180,13 @@ Apify.main(async () => {
 
         log.debug(`Got back ${resp_data.vehicles.length} vehicles`);
 
-        resp_data.vehicles.forEach(v => addCarInfo(v));
+        for (const v of resp_data.vehicles) {
+            await addCarInfo(v);
+        }
 
-        if (maxItems && maxItems > 0 && vehicles.length > maxItems)
+        if (maxItems && maxItems > 0 && vehicles.length > maxItems) {
             break;
+        }
         
         data.search = JSON.parse(data.search);
         
